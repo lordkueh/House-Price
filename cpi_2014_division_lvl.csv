@@ -1,0 +1,685 @@
+year,level_1,level_2,value
+1961,All Items,Food,23.73
+1961,All Items,Food Excl Food Servicing Services,na
+1961,All Items,Food Servicing Services,na
+1961,All Items,Clothing & Footwear,54.685
+1961,All Items,Housing & Utilities,23.51
+1961,All Items,Household Durables And Services,33.34
+1961,All Items,Health Care,19.863
+1961,All Items,Transport,20.318
+1961,All Items,Communication,87.887
+1961,All Items,Recreation & Culture,51.022
+1961,All Items,Education,17.211
+1961,All Items,Miscellaneous Goods & Services,19.138
+1962,All Items,Food,23.898
+1962,All Items,Food Excl Food Servicing Services,na
+1962,All Items,Food Servicing Services,na
+1962,All Items,Clothing & Footwear,54.423
+1962,All Items,Housing & Utilities,23.652
+1962,All Items,Household Durables And Services,33.386
+1962,All Items,Health Care,19.872
+1962,All Items,Transport,20.303
+1962,All Items,Communication,87.887
+1962,All Items,Recreation & Culture,51.022
+1962,All Items,Education,17.275
+1962,All Items,Miscellaneous Goods & Services,19.131
+1963,All Items,Food,24.773
+1963,All Items,Food Excl Food Servicing Services,na
+1963,All Items,Food Servicing Services,na
+1963,All Items,Clothing & Footwear,54.245
+1963,All Items,Housing & Utilities,23.703
+1963,All Items,Household Durables And Services,32.704
+1963,All Items,Health Care,19.863
+1963,All Items,Transport,20.32
+1963,All Items,Communication,87.887
+1963,All Items,Recreation & Culture,50.972
+1963,All Items,Education,17.834
+1963,All Items,Miscellaneous Goods & Services,19.128
+1964,All Items,Food,25.397
+1964,All Items,Food Excl Food Servicing Services,na
+1964,All Items,Food Servicing Services,na
+1964,All Items,Clothing & Footwear,54.558
+1964,All Items,Housing & Utilities,24.138
+1964,All Items,Household Durables And Services,32.784
+1964,All Items,Health Care,19.863
+1964,All Items,Transport,20.389
+1964,All Items,Communication,95.211
+1964,All Items,Recreation & Culture,51.022
+1964,All Items,Education,18.026
+1964,All Items,Miscellaneous Goods & Services,18.887
+1965,All Items,Food,25.279
+1965,All Items,Food Excl Food Servicing Services,na
+1965,All Items,Food Servicing Services,na
+1965,All Items,Clothing & Footwear,55.236
+1965,All Items,Housing & Utilities,24.584
+1965,All Items,Household Durables And Services,33.581
+1965,All Items,Health Care,19.863
+1965,All Items,Transport,20.389
+1965,All Items,Communication,131.831
+1965,All Items,Recreation & Culture,51.022
+1965,All Items,Education,17.609
+1965,All Items,Miscellaneous Goods & Services,19.216
+1966,All Items,Food,25.982
+1966,All Items,Food Excl Food Servicing Services,na
+1966,All Items,Food Servicing Services,na
+1966,All Items,Clothing & Footwear,56.175
+1966,All Items,Housing & Utilities,24.444
+1966,All Items,Household Durables And Services,35.901
+1966,All Items,Health Care,19.863
+1966,All Items,Transport,20.393
+1966,All Items,Communication,131.831
+1966,All Items,Recreation & Culture,51.022
+1966,All Items,Education,18.168
+1966,All Items,Miscellaneous Goods & Services,19.514
+1967,All Items,Food,27.212
+1967,All Items,Food Excl Food Servicing Services,na
+1967,All Items,Food Servicing Services,na
+1967,All Items,Clothing & Footwear,56.286
+1967,All Items,Housing & Utilities,25.058
+1967,All Items,Household Durables And Services,38.176
+1967,All Items,Health Care,19.863
+1967,All Items,Transport,20.412
+1967,All Items,Communication,131.831
+1967,All Items,Recreation & Culture,51.022
+1967,All Items,Education,17.843
+1967,All Items,Miscellaneous Goods & Services,19.602
+1968,All Items,Food,27.262
+1968,All Items,Food Excl Food Servicing Services,na
+1968,All Items,Food Servicing Services,na
+1968,All Items,Clothing & Footwear,56.604
+1968,All Items,Housing & Utilities,25.36
+1968,All Items,Household Durables And Services,38.943
+1968,All Items,Health Care,20.159
+1968,All Items,Transport,20.412
+1968,All Items,Communication,131.831
+1968,All Items,Recreation & Culture,51.022
+1968,All Items,Education,17.563
+1968,All Items,Miscellaneous Goods & Services,20.316
+1969,All Items,Food,26.739
+1969,All Items,Food Excl Food Servicing Services,na
+1969,All Items,Food Servicing Services,na
+1969,All Items,Clothing & Footwear,57.814
+1969,All Items,Housing & Utilities,25.927
+1969,All Items,Household Durables And Services,38.765
+1969,All Items,Health Care,21.839
+1969,All Items,Transport,20.455
+1969,All Items,Communication,131.831
+1969,All Items,Recreation & Culture,51.022
+1969,All Items,Education,17.934
+1969,All Items,Miscellaneous Goods & Services,21.017
+1970,All Items,Food,26.605
+1970,All Items,Food Excl Food Servicing Services,na
+1970,All Items,Food Servicing Services,na
+1970,All Items,Clothing & Footwear,58.112
+1970,All Items,Housing & Utilities,26.118
+1970,All Items,Household Durables And Services,39.47
+1970,All Items,Health Care,21.839
+1970,All Items,Transport,20.432
+1970,All Items,Communication,131.831
+1970,All Items,Recreation & Culture,51.022
+1970,All Items,Education,18.305
+1970,All Items,Miscellaneous Goods & Services,21.817
+1971,All Items,Food,27.213
+1971,All Items,Food Excl Food Servicing Services,na
+1971,All Items,Food Servicing Services,na
+1971,All Items,Clothing & Footwear,59.688
+1971,All Items,Housing & Utilities,26.703
+1971,All Items,Household Durables And Services,39.854
+1971,All Items,Health Care,21.799
+1971,All Items,Transport,20.428
+1971,All Items,Communication,131.831
+1971,All Items,Recreation & Culture,52.369
+1971,All Items,Education,18.088
+1971,All Items,Miscellaneous Goods & Services,21.956
+1972,All Items,Food,27.88
+1972,All Items,Food Excl Food Servicing Services,na
+1972,All Items,Food Servicing Services,na
+1972,All Items,Clothing & Footwear,60.78
+1972,All Items,Housing & Utilities,27.124
+1972,All Items,Household Durables And Services,40.258
+1972,All Items,Health Care,21.532
+1972,All Items,Transport,20.435
+1972,All Items,Communication,131.831
+1972,All Items,Recreation & Culture,52.572
+1972,All Items,Education,18.157
+1972,All Items,Miscellaneous Goods & Services,22.724
+1973,All Items,Food,37.121
+1973,All Items,Food Excl Food Servicing Services,na
+1973,All Items,Food Servicing Services,na
+1973,All Items,Clothing & Footwear,70.81
+1973,All Items,Housing & Utilities,28.061
+1973,All Items,Household Durables And Services,45.876
+1973,All Items,Health Care,22.143
+1973,All Items,Transport,20.521
+1973,All Items,Communication,131.831
+1973,All Items,Recreation & Culture,53.535
+1973,All Items,Education,18.689
+1973,All Items,Miscellaneous Goods & Services,25.075
+1974,All Items,Food,46.655
+1974,All Items,Food Excl Food Servicing Services,na
+1974,All Items,Food Servicing Services,na
+1974,All Items,Clothing & Footwear,77.972
+1974,All Items,Housing & Utilities,32.031
+1974,All Items,Household Durables And Services,57.521
+1974,All Items,Health Care,25.988
+1974,All Items,Transport,28.809
+1974,All Items,Communication,131.831
+1974,All Items,Recreation & Culture,57.908
+1974,All Items,Education,19.576
+1974,All Items,Miscellaneous Goods & Services,28.813
+1975,All Items,Food,47.155
+1975,All Items,Food Excl Food Servicing Services,na
+1975,All Items,Food Servicing Services,na
+1975,All Items,Clothing & Footwear,76.946
+1975,All Items,Housing & Utilities,34.288
+1975,All Items,Household Durables And Services,60.07
+1975,All Items,Health Care,27.681
+1975,All Items,Transport,30.03
+1975,All Items,Communication,131.831
+1975,All Items,Recreation & Culture,58.479
+1975,All Items,Education,19.981
+1975,All Items,Miscellaneous Goods & Services,31.091
+1976,All Items,Food,44.296
+1976,All Items,Food Excl Food Servicing Services,na
+1976,All Items,Food Servicing Services,na
+1976,All Items,Clothing & Footwear,77.475
+1976,All Items,Housing & Utilities,36.595
+1976,All Items,Household Durables And Services,59.539
+1976,All Items,Health Care,28.427
+1976,All Items,Transport,31.325
+1976,All Items,Communication,131.831
+1976,All Items,Recreation & Culture,58.586
+1976,All Items,Education,20.154
+1976,All Items,Miscellaneous Goods & Services,31.82
+1977,All Items,Food,46.473
+1977,All Items,Food Excl Food Servicing Services,na
+1977,All Items,Food Servicing Services,na
+1977,All Items,Clothing & Footwear,78.621
+1977,All Items,Housing & Utilities,37.006
+1977,All Items,Household Durables And Services,60.726
+1977,All Items,Health Care,28.882
+1977,All Items,Transport,31.512
+1977,All Items,Communication,131.831
+1977,All Items,Recreation & Culture,58.578
+1977,All Items,Education,20.54
+1977,All Items,Miscellaneous Goods & Services,32.55
+1978,All Items,Food,48.693
+1978,All Items,Food Excl Food Servicing Services,na
+1978,All Items,Food Servicing Services,na
+1978,All Items,Clothing & Footwear,80.112
+1978,All Items,Housing & Utilities,36.997
+1978,All Items,Household Durables And Services,61.861
+1978,All Items,Health Care,30.113
+1978,All Items,Transport,33.182
+1978,All Items,Communication,135.864
+1978,All Items,Recreation & Culture,62.856
+1978,All Items,Education,21.621
+1978,All Items,Miscellaneous Goods & Services,33.678
+1979,All Items,Food,50.062
+1979,All Items,Food Excl Food Servicing Services,na
+1979,All Items,Food Servicing Services,na
+1979,All Items,Clothing & Footwear,82.941
+1979,All Items,Housing & Utilities,38.879
+1979,All Items,Household Durables And Services,64.565
+1979,All Items,Health Care,31.225
+1979,All Items,Transport,36.479
+1979,All Items,Communication,137.22
+1979,All Items,Recreation & Culture,65.911
+1979,All Items,Education,22.57
+1979,All Items,Miscellaneous Goods & Services,34.133
+1980,All Items,Food,53.923
+1980,All Items,Food Excl Food Servicing Services,na
+1980,All Items,Food Servicing Services,na
+1980,All Items,Clothing & Footwear,84.496
+1980,All Items,Housing & Utilities,44.183
+1980,All Items,Household Durables And Services,68.336
+1980,All Items,Health Care,33.435
+1980,All Items,Transport,41.697
+1980,All Items,Communication,137.22
+1980,All Items,Recreation & Culture,67.938
+1980,All Items,Education,24.454
+1980,All Items,Miscellaneous Goods & Services,37.095
+1981,All Items,Food,59.088
+1981,All Items,Food Excl Food Servicing Services,na
+1981,All Items,Food Servicing Services,na
+1981,All Items,Clothing & Footwear,86.02
+1981,All Items,Housing & Utilities,46.504
+1981,All Items,Household Durables And Services,70.906
+1981,All Items,Health Care,35.53
+1981,All Items,Transport,46.387
+1981,All Items,Communication,137.22
+1981,All Items,Recreation & Culture,73.995
+1981,All Items,Education,26.022
+1981,All Items,Miscellaneous Goods & Services,39.88
+1982,All Items,Food,62.036
+1982,All Items,Food Excl Food Servicing Services,na
+1982,All Items,Food Servicing Services,na
+1982,All Items,Clothing & Footwear,86.39
+1982,All Items,Housing & Utilities,48.223
+1982,All Items,Household Durables And Services,72.307
+1982,All Items,Health Care,37.416
+1982,All Items,Transport,47.664
+1982,All Items,Communication,137.22
+1982,All Items,Recreation & Culture,74.863
+1982,All Items,Education,26.498
+1982,All Items,Miscellaneous Goods & Services,42.003
+1983,All Items,Food,62.283
+1983,All Items,Food Excl Food Servicing Services,na
+1983,All Items,Food Servicing Services,na
+1983,All Items,Clothing & Footwear,86.342
+1983,All Items,Housing & Utilities,48.629
+1983,All Items,Household Durables And Services,73.099
+1983,All Items,Health Care,40.385
+1983,All Items,Transport,48.219
+1983,All Items,Communication,137.22
+1983,All Items,Recreation & Culture,75.033
+1983,All Items,Education,27.282
+1983,All Items,Miscellaneous Goods & Services,44.129
+1984,All Items,Food,63.233
+1984,All Items,Food Excl Food Servicing Services,na
+1984,All Items,Food Servicing Services,na
+1984,All Items,Clothing & Footwear,85.991
+1984,All Items,Housing & Utilities,50.333
+1984,All Items,Household Durables And Services,73.191
+1984,All Items,Health Care,45.176
+1984,All Items,Transport,50.321
+1984,All Items,Communication,137.22
+1984,All Items,Recreation & Culture,75.756
+1984,All Items,Education,28.731
+1984,All Items,Miscellaneous Goods & Services,47.542
+1985,All Items,Food,62.488
+1985,All Items,Food Excl Food Servicing Services,na
+1985,All Items,Food Servicing Services,na
+1985,All Items,Clothing & Footwear,83.815
+1985,All Items,Housing & Utilities,52.094
+1985,All Items,Household Durables And Services,73.387
+1985,All Items,Health Care,45.814
+1985,All Items,Transport,53.029
+1985,All Items,Communication,120.447
+1985,All Items,Recreation & Culture,75.713
+1985,All Items,Education,29.677
+1985,All Items,Miscellaneous Goods & Services,48.332
+1986,All Items,Food,61.558
+1986,All Items,Food Excl Food Servicing Services,na
+1986,All Items,Food Servicing Services,na
+1986,All Items,Clothing & Footwear,81.897
+1986,All Items,Housing & Utilities,50.907
+1986,All Items,Household Durables And Services,73.478
+1986,All Items,Health Care,45.649
+1986,All Items,Transport,51.062
+1986,All Items,Communication,114.856
+1986,All Items,Recreation & Culture,76.443
+1986,All Items,Education,31.773
+1986,All Items,Miscellaneous Goods & Services,48.526
+1987,All Items,Food,61.461
+1987,All Items,Food Excl Food Servicing Services,na
+1987,All Items,Food Servicing Services,na
+1987,All Items,Clothing & Footwear,82.21
+1987,All Items,Housing & Utilities,50.129
+1987,All Items,Household Durables And Services,73.927
+1987,All Items,Health Care,46.175
+1987,All Items,Transport,51.644
+1987,All Items,Communication,115.185
+1987,All Items,Recreation & Culture,77.337
+1987,All Items,Education,32.709
+1987,All Items,Miscellaneous Goods & Services,51.144
+1988,All Items,Food,62.316
+1988,All Items,Food Excl Food Servicing Services,na
+1988,All Items,Food Servicing Services,na
+1988,All Items,Clothing & Footwear,85.014
+1988,All Items,Housing & Utilities,50.125
+1988,All Items,Household Durables And Services,74.863
+1988,All Items,Health Care,47.149
+1988,All Items,Transport,52.175
+1988,All Items,Communication,115.185
+1988,All Items,Recreation & Culture,79.523
+1988,All Items,Education,34.964
+1988,All Items,Miscellaneous Goods & Services,52.016
+1989,All Items,Food,63.029
+1989,All Items,Food Excl Food Servicing Services,na
+1989,All Items,Food Servicing Services,na
+1989,All Items,Clothing & Footwear,86.575
+1989,All Items,Housing & Utilities,51.017
+1989,All Items,Household Durables And Services,76.072
+1989,All Items,Health Care,48.22
+1989,All Items,Transport,54.902
+1989,All Items,Communication,120.707
+1989,All Items,Recreation & Culture,81.632
+1989,All Items,Education,36.845
+1989,All Items,Miscellaneous Goods & Services,53.721
+1990,All Items,Food,63.517
+1990,All Items,Food Excl Food Servicing Services,62.579
+1990,All Items,Food Servicing Services,63.607
+1990,All Items,Clothing & Footwear,87.323
+1990,All Items,Housing & Utilities,54.707
+1990,All Items,Household Durables And Services,78.667
+1990,All Items,Health Care,50.616
+1990,All Items,Transport,59.503
+1990,All Items,Communication,123.472
+1990,All Items,Recreation & Culture,83.139
+1990,All Items,Education,39.884
+1990,All Items,Miscellaneous Goods & Services,55.546
+1991,All Items,Food,64.521
+1991,All Items,Food Excl Food Servicing Services,63.304
+1991,All Items,Food Servicing Services,64.882
+1991,All Items,Clothing & Footwear,88.862
+1991,All Items,Housing & Utilities,55.963
+1991,All Items,Household Durables And Services,79.187
+1991,All Items,Health Care,54.716
+1991,All Items,Transport,63.996
+1991,All Items,Communication,124.41
+1991,All Items,Recreation & Culture,86.412
+1991,All Items,Education,44.206
+1991,All Items,Miscellaneous Goods & Services,59.013
+1992,All Items,Food,65.297
+1992,All Items,Food Excl Food Servicing Services,63.964
+1992,All Items,Food Servicing Services,65.766
+1992,All Items,Clothing & Footwear,91.018
+1992,All Items,Housing & Utilities,57.403
+1992,All Items,Household Durables And Services,81.06
+1992,All Items,Health Care,56.072
+1992,All Items,Transport,66.03
+1992,All Items,Communication,124.41
+1992,All Items,Recreation & Culture,88.453
+1992,All Items,Education,47.084
+1992,All Items,Miscellaneous Goods & Services,60.997
+1993,All Items,Food,65.926
+1993,All Items,Food Excl Food Servicing Services,63.964
+1993,All Items,Food Servicing Services,67.032
+1993,All Items,Clothing & Footwear,92.237
+1993,All Items,Housing & Utilities,59.503
+1993,All Items,Household Durables And Services,82.353
+1993,All Items,Health Care,57.901
+1993,All Items,Transport,68.017
+1993,All Items,Communication,123.439
+1993,All Items,Recreation & Culture,90.045
+1993,All Items,Education,49.086
+1993,All Items,Miscellaneous Goods & Services,65.08
+1994,All Items,Food,68.26
+1994,All Items,Food Excl Food Servicing Services,65.964
+1994,All Items,Food Servicing Services,69.663
+1994,All Items,Clothing & Footwear,94.373
+1994,All Items,Housing & Utilities,60.323
+1994,All Items,Household Durables And Services,83.122
+1994,All Items,Health Care,59.522
+1994,All Items,Transport,73.201
+1994,All Items,Communication,123.586
+1994,All Items,Recreation & Culture,91.167
+1994,All Items,Education,50.669
+1994,All Items,Miscellaneous Goods & Services,66.921
+1995,All Items,Food,69.83
+1995,All Items,Food Excl Food Servicing Services,66.957
+1995,All Items,Food Servicing Services,71.777
+1995,All Items,Clothing & Footwear,95.793
+1995,All Items,Housing & Utilities,60.914
+1995,All Items,Household Durables And Services,86.977
+1995,All Items,Health Care,60.395
+1995,All Items,Transport,73.93
+1995,All Items,Communication,120.597
+1995,All Items,Recreation & Culture,92.074
+1995,All Items,Education,52.719
+1995,All Items,Miscellaneous Goods & Services,67.822
+1996,All Items,Food,71.304
+1996,All Items,Food Excl Food Servicing Services,68.068
+1996,All Items,Food Servicing Services,73.59
+1996,All Items,Clothing & Footwear,96.343
+1996,All Items,Housing & Utilities,61.481
+1996,All Items,Household Durables And Services,87.493
+1996,All Items,Health Care,61.57
+1996,All Items,Transport,74.292
+1996,All Items,Communication,119.886
+1996,All Items,Recreation & Culture,93.193
+1996,All Items,Education,55.106
+1996,All Items,Miscellaneous Goods & Services,68.741
+1997,All Items,Food,72.753
+1997,All Items,Food Excl Food Servicing Services,69.701
+1997,All Items,Food Servicing Services,74.84
+1997,All Items,Clothing & Footwear,97.163
+1997,All Items,Housing & Utilities,63.279
+1997,All Items,Household Durables And Services,87.36
+1997,All Items,Health Care,63.561
+1997,All Items,Transport,77.716
+1997,All Items,Communication,117.153
+1997,All Items,Recreation & Culture,92.302
+1997,All Items,Education,56.642
+1997,All Items,Miscellaneous Goods & Services,69.652
+1998,All Items,Food,72.93
+1998,All Items,Food Excl Food Servicing Services,68.974
+1998,All Items,Food Servicing Services,75.882
+1998,All Items,Clothing & Footwear,95.827
+1998,All Items,Housing & Utilities,64.906
+1998,All Items,Household Durables And Services,87.68
+1998,All Items,Health Care,65.9
+1998,All Items,Transport,73.757
+1998,All Items,Communication,112.866
+1998,All Items,Recreation & Culture,88.881
+1998,All Items,Education,59.471
+1998,All Items,Miscellaneous Goods & Services,70.84
+1999,All Items,Food,73.565
+1999,All Items,Food Excl Food Servicing Services,69.822
+1999,All Items,Food Servicing Services,76.33
+1999,All Items,Clothing & Footwear,93.957
+1999,All Items,Housing & Utilities,64.084
+1999,All Items,Household Durables And Services,87.626
+1999,All Items,Health Care,66.072
+1999,All Items,Transport,73.509
+1999,All Items,Communication,111.358
+1999,All Items,Recreation & Culture,88.112
+1999,All Items,Education,61.999
+1999,All Items,Miscellaneous Goods & Services,71.896
+2000,All Items,Food,73.956
+2000,All Items,Food Excl Food Servicing Services,70.173
+2000,All Items,Food Servicing Services,76.754
+2000,All Items,Clothing & Footwear,93.094
+2000,All Items,Housing & Utilities,65.886
+2000,All Items,Household Durables And Services,87.145
+2000,All Items,Health Care,66.768
+2000,All Items,Transport,76.125
+2000,All Items,Communication,107.936
+2000,All Items,Recreation & Culture,88.91
+2000,All Items,Education,63.633
+2000,All Items,Miscellaneous Goods & Services,73.188
+2001,All Items,Food,74.324
+2001,All Items,Food Excl Food Servicing Services,69.881
+2001,All Items,Food Servicing Services,77.687
+2001,All Items,Clothing & Footwear,93.437
+2001,All Items,Housing & Utilities,67.156
+2001,All Items,Household Durables And Services,86.761
+2001,All Items,Health Care,68.696
+2001,All Items,Transport,75.293
+2001,All Items,Communication,105.43
+2001,All Items,Recreation & Culture,91.182
+2001,All Items,Education,66.118
+2001,All Items,Miscellaneous Goods & Services,75.662
+2002,All Items,Food,74.345
+2002,All Items,Food Excl Food Servicing Services,69.109
+2002,All Items,Food Servicing Services,78.387
+2002,All Items,Clothing & Footwear,93.862
+2002,All Items,Housing & Utilities,65.679
+2002,All Items,Household Durables And Services,86.075
+2002,All Items,Health Care,70.73
+2002,All Items,Transport,74.438
+2002,All Items,Communication,105.193
+2002,All Items,Recreation & Culture,91.276
+2002,All Items,Education,67.649
+2002,All Items,Miscellaneous Goods & Services,75.393
+2003,All Items,Food,74.788
+2003,All Items,Food Excl Food Servicing Services,69.538
+2003,All Items,Food Servicing Services,78.84
+2003,All Items,Clothing & Footwear,94.38
+2003,All Items,Housing & Utilities,65.458
+2003,All Items,Household Durables And Services,85.666
+2003,All Items,Health Care,72.069
+2003,All Items,Transport,74.295
+2003,All Items,Communication,106.598
+2003,All Items,Recreation & Culture,89.725
+2003,All Items,Education,69.918
+2003,All Items,Miscellaneous Goods & Services,79.25
+2004,All Items,Food,76.296
+2004,All Items,Food Excl Food Servicing Services,71.784
+2004,All Items,Food Servicing Services,79.705
+2004,All Items,Clothing & Footwear,94.545
+2004,All Items,Housing & Utilities,65.392
+2004,All Items,Household Durables And Services,84.994
+2004,All Items,Health Care,76.079
+2004,All Items,Transport,75.39
+2004,All Items,Communication,106.582
+2004,All Items,Recreation & Culture,91.001
+2004,All Items,Education,72.465
+2004,All Items,Miscellaneous Goods & Services,84.396
+2005,All Items,Food,77.277
+2005,All Items,Food Excl Food Servicing Services,73.25
+2005,All Items,Food Servicing Services,80.286
+2005,All Items,Clothing & Footwear,94.673
+2005,All Items,Housing & Utilities,66.218
+2005,All Items,Household Durables And Services,82.394
+2005,All Items,Health Care,76.464
+2005,All Items,Transport,73.52
+2005,All Items,Communication,105.366
+2005,All Items,Recreation & Culture,92.067
+2005,All Items,Education,74.774
+2005,All Items,Miscellaneous Goods & Services,88.123
+2006,All Items,Food,78.475
+2006,All Items,Food Excl Food Servicing Services,74.685
+2006,All Items,Food Servicing Services,81.283
+2006,All Items,Clothing & Footwear,95.38
+2006,All Items,Housing & Utilities,68.394
+2006,All Items,Household Durables And Services,81.877
+2006,All Items,Health Care,77.148
+2006,All Items,Transport,72.326
+2006,All Items,Communication,104.352
+2006,All Items,Recreation & Culture,91.479
+2006,All Items,Education,77.124
+2006,All Items,Miscellaneous Goods & Services,90.294
+2007,All Items,Food,80.798
+2007,All Items,Food Excl Food Servicing Services,77.7
+2007,All Items,Food Servicing Services,83.018
+2007,All Items,Clothing & Footwear,96.017
+2007,All Items,Housing & Utilities,68.552
+2007,All Items,Household Durables And Services,82.186
+2007,All Items,Health Care,80.27
+2007,All Items,Transport,74.175
+2007,All Items,Communication,105.165
+2007,All Items,Recreation & Culture,94.312
+2007,All Items,Education,79.226
+2007,All Items,Miscellaneous Goods & Services,92.317
+2008,All Items,Food,87.046
+2008,All Items,Food Excl Food Servicing Services,85.25
+2008,All Items,Food Servicing Services,88.184
+2008,All Items,Clothing & Footwear,97.435
+2008,All Items,Housing & Utilities,78.825
+2008,All Items,Household Durables And Services,84.103
+2008,All Items,Health Care,84.641
+2008,All Items,Transport,77.249
+2008,All Items,Communication,105.345
+2008,All Items,Recreation & Culture,97.854
+2008,All Items,Education,82.927
+2008,All Items,Miscellaneous Goods & Services,94.138
+2009,All Items,Food,89.02
+2009,All Items,Food Excl Food Servicing Services,87.401
+2009,All Items,Food Servicing Services,90.046
+2009,All Items,Clothing & Footwear,98.344
+2009,All Items,Housing & Utilities,80.388
+2009,All Items,Household Durables And Services,85.033
+2009,All Items,Health Care,86.176
+2009,All Items,Transport,74.857
+2009,All Items,Communication,105.6
+2009,All Items,Recreation & Culture,96.619
+2009,All Items,Education,83.551
+2009,All Items,Miscellaneous Goods & Services,94.415
+2010,All Items,Food,90.229
+2010,All Items,Food Excl Food Servicing Services,89.443
+2010,All Items,Food Servicing Services,90.726
+2010,All Items,Clothing & Footwear,98.884
+2010,All Items,Housing & Utilities,82.189
+2010,All Items,Household Durables And Services,85.914
+2010,All Items,Health Care,87.733
+2010,All Items,Transport,82.57
+2010,All Items,Communication,103.247
+2010,All Items,Recreation & Culture,97.555
+2010,All Items,Education,86.393
+2010,All Items,Miscellaneous Goods & Services,95.036
+2011,All Items,Food,92.979
+2011,All Items,Food Excl Food Servicing Services,92.628
+2011,All Items,Food Servicing Services,93.202
+2011,All Items,Clothing & Footwear,99.018
+2011,All Items,Housing & Utilities,89.585
+2011,All Items,Household Durables And Services,91.449
+2011,All Items,Health Care,89.814
+2011,All Items,Transport,92.407
+2011,All Items,Communication,101.691
+2011,All Items,Recreation & Culture,96.164
+2011,All Items,Education,89.49
+2011,All Items,Miscellaneous Goods & Services,95.919
+2012,All Items,Food,95.141
+2012,All Items,Food Excl Food Servicing Services,94.894
+2012,All Items,Food Servicing Services,95.297
+2012,All Items,Clothing & Footwear,100.487
+2012,All Items,Housing & Utilities,97.122
+2012,All Items,Household Durables And Services,93.647
+2012,All Items,Health Care,93.73
+2012,All Items,Transport,98.951
+2012,All Items,Communication,101.595
+2012,All Items,Recreation & Culture,97.149
+2012,All Items,Education,93.122
+2012,All Items,Miscellaneous Goods & Services,96.939
+2013,All Items,Food,97.147
+2013,All Items,Food Excl Food Servicing Services,97.09
+2013,All Items,Food Servicing Services,97.183
+2013,All Items,Clothing & Footwear,100.811
+2013,All Items,Housing & Utilities,99.886
+2013,All Items,Household Durables And Services,98.231
+2013,All Items,Health Care,97.285
+2013,All Items,Transport,101.229
+2013,All Items,Communication,100.174
+2013,All Items,Recreation & Culture,98.247
+2013,All Items,Education,96.697
+2013,All Items,Miscellaneous Goods & Services,98.74
+2014,All Items,Food,99.974
+2014,All Items,Food Excl Food Servicing Services,99.959
+2014,All Items,Food Servicing Services,99.983
+2014,All Items,Clothing & Footwear,99.999
+2014,All Items,Housing & Utilities,99.999
+2014,All Items,Household Durables And Services,99.962
+2014,All Items,Health Care,99.979
+2014,All Items,Transport,99.995
+2014,All Items,Communication,99.983
+2014,All Items,Recreation & Culture,99.974
+2014,All Items,Education,100
+2014,All Items,Miscellaneous Goods & Services,99.917
+2015,All Items,Food,101.9
+2015,All Items,Food Excl Food Servicing Services,101.183
+2015,All Items,Food Servicing Services,102.299
+2015,All Items,Clothing & Footwear,100.06
+2015,All Items,Housing & Utilities,96.459
+2015,All Items,Household Durables And Services,99.354
+2015,All Items,Health Care,99.895
+2015,All Items,Transport,98.558
+2015,All Items,Communication,100.319
+2015,All Items,Recreation & Culture,100.303
+2015,All Items,Education,103.44
+2015,All Items,Miscellaneous Goods & Services,99.873
+2016,All Items,Food,103.992
+2016,All Items,Food Excl Food Servicing Services,103.511
+2016,All Items,Food Servicing Services,104.26
+2016,All Items,Clothing & Footwear,100.28
+2016,All Items,Housing & Utilities,92.526
+2016,All Items,Household Durables And Services,101.151
+2016,All Items,Health Care,100.968
+2016,All Items,Transport,96.191
+2016,All Items,Communication,99.946
+2016,All Items,Recreation & Culture,101.227
+2016,All Items,Education,106.622
+2016,All Items,Miscellaneous Goods & Services,100.123
+2017,All Items,Food,105.453
+2017,All Items,Food Excl Food Servicing Services,104.845
+2017,All Items,Food Servicing Services,105.791
+2017,All Items,Clothing & Footwear,100.89
+2017,All Items,Housing & Utilities,90.181
+2017,All Items,Household Durables And Services,102.22
+2017,All Items,Health Care,103.486
+2017,All Items,Transport,98.692
+2017,All Items,Communication,100.501
+2017,All Items,Recreation & Culture,101.558
+2017,All Items,Education,109.838
+2017,All Items,Miscellaneous Goods & Services,100.266

@@ -1,0 +1,1825 @@
+year,level_1,level_2,level_3,value
+1961,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1961,All Items,Food Excl Food Servicing Services,Meat,na
+1961,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1961,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1961,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1961,All Items,Food Excl Food Servicing Services,Fruits,na
+1961,All Items,Food Excl Food Servicing Services,Vegetables,na
+1961,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1961,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1961,All Items,Food Excl Food Servicing Services,Other Food,na
+1961,All Items,Food Servicing Services,Restaurant Food,na
+1961,All Items,Food Servicing Services,Fast Food,na
+1961,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1961,All Items,Food Servicing Services,Catered Food,na
+1961,All Items,Housing & Utilities,Accommodation,na
+1961,All Items,Housing & Utilities,Fuel & Utilities,na
+1961,All Items,Household Durables And Services,Household Durables,na
+1961,All Items,Household Durables And Services,Household Services & Supplies,na
+1961,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1961,All Items,Health Care,Medical & Dental Treatment,na
+1961,All Items,Transport,Private Road Transport,na
+1961,All Items,Transport,Public Road Transport,na
+1961,All Items,Transport,Other Travel & Transport,na
+1961,All Items,Recreation & Culture,Recreation & Entertainment,na
+1961,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1961,All Items,Recreation & Culture,Holiday Expenses,na
+1961,All Items,Education,Tuition & Other Fees,na
+1961,All Items,Education,School Textbooks & Related Study Guides,na
+1961,All Items,Miscellaneous Goods & Services,Personal Care,na
+1961,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1961,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1961,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1962,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1962,All Items,Food Excl Food Servicing Services,Meat,na
+1962,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1962,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1962,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1962,All Items,Food Excl Food Servicing Services,Fruits,na
+1962,All Items,Food Excl Food Servicing Services,Vegetables,na
+1962,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1962,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1962,All Items,Food Excl Food Servicing Services,Other Food,na
+1962,All Items,Food Servicing Services,Restaurant Food,na
+1962,All Items,Food Servicing Services,Fast Food,na
+1962,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1962,All Items,Food Servicing Services,Catered Food,na
+1962,All Items,Housing & Utilities,Accommodation,na
+1962,All Items,Housing & Utilities,Fuel & Utilities,na
+1962,All Items,Household Durables And Services,Household Durables,na
+1962,All Items,Household Durables And Services,Household Services & Supplies,na
+1962,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1962,All Items,Health Care,Medical & Dental Treatment,na
+1962,All Items,Transport,Private Road Transport,na
+1962,All Items,Transport,Public Road Transport,na
+1962,All Items,Transport,Other Travel & Transport,na
+1962,All Items,Recreation & Culture,Recreation & Entertainment,na
+1962,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1962,All Items,Recreation & Culture,Holiday Expenses,na
+1962,All Items,Education,Tuition & Other Fees,na
+1962,All Items,Education,School Textbooks & Related Study Guides,na
+1962,All Items,Miscellaneous Goods & Services,Personal Care,na
+1962,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1962,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1962,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1963,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1963,All Items,Food Excl Food Servicing Services,Meat,na
+1963,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1963,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1963,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1963,All Items,Food Excl Food Servicing Services,Fruits,na
+1963,All Items,Food Excl Food Servicing Services,Vegetables,na
+1963,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1963,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1963,All Items,Food Excl Food Servicing Services,Other Food,na
+1963,All Items,Food Servicing Services,Restaurant Food,na
+1963,All Items,Food Servicing Services,Fast Food,na
+1963,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1963,All Items,Food Servicing Services,Catered Food,na
+1963,All Items,Housing & Utilities,Accommodation,na
+1963,All Items,Housing & Utilities,Fuel & Utilities,na
+1963,All Items,Household Durables And Services,Household Durables,na
+1963,All Items,Household Durables And Services,Household Services & Supplies,na
+1963,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1963,All Items,Health Care,Medical & Dental Treatment,na
+1963,All Items,Transport,Private Road Transport,na
+1963,All Items,Transport,Public Road Transport,na
+1963,All Items,Transport,Other Travel & Transport,na
+1963,All Items,Recreation & Culture,Recreation & Entertainment,na
+1963,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1963,All Items,Recreation & Culture,Holiday Expenses,na
+1963,All Items,Education,Tuition & Other Fees,na
+1963,All Items,Education,School Textbooks & Related Study Guides,na
+1963,All Items,Miscellaneous Goods & Services,Personal Care,na
+1963,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1963,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1963,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1964,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1964,All Items,Food Excl Food Servicing Services,Meat,na
+1964,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1964,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1964,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1964,All Items,Food Excl Food Servicing Services,Fruits,na
+1964,All Items,Food Excl Food Servicing Services,Vegetables,na
+1964,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1964,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1964,All Items,Food Excl Food Servicing Services,Other Food,na
+1964,All Items,Food Servicing Services,Restaurant Food,na
+1964,All Items,Food Servicing Services,Fast Food,na
+1964,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1964,All Items,Food Servicing Services,Catered Food,na
+1964,All Items,Housing & Utilities,Accommodation,na
+1964,All Items,Housing & Utilities,Fuel & Utilities,na
+1964,All Items,Household Durables And Services,Household Durables,na
+1964,All Items,Household Durables And Services,Household Services & Supplies,na
+1964,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1964,All Items,Health Care,Medical & Dental Treatment,na
+1964,All Items,Transport,Private Road Transport,na
+1964,All Items,Transport,Public Road Transport,na
+1964,All Items,Transport,Other Travel & Transport,na
+1964,All Items,Recreation & Culture,Recreation & Entertainment,na
+1964,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1964,All Items,Recreation & Culture,Holiday Expenses,na
+1964,All Items,Education,Tuition & Other Fees,na
+1964,All Items,Education,School Textbooks & Related Study Guides,na
+1964,All Items,Miscellaneous Goods & Services,Personal Care,na
+1964,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1964,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1964,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1965,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1965,All Items,Food Excl Food Servicing Services,Meat,na
+1965,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1965,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1965,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1965,All Items,Food Excl Food Servicing Services,Fruits,na
+1965,All Items,Food Excl Food Servicing Services,Vegetables,na
+1965,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1965,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1965,All Items,Food Excl Food Servicing Services,Other Food,na
+1965,All Items,Food Servicing Services,Restaurant Food,na
+1965,All Items,Food Servicing Services,Fast Food,na
+1965,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1965,All Items,Food Servicing Services,Catered Food,na
+1965,All Items,Housing & Utilities,Accommodation,na
+1965,All Items,Housing & Utilities,Fuel & Utilities,na
+1965,All Items,Household Durables And Services,Household Durables,na
+1965,All Items,Household Durables And Services,Household Services & Supplies,na
+1965,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1965,All Items,Health Care,Medical & Dental Treatment,na
+1965,All Items,Transport,Private Road Transport,na
+1965,All Items,Transport,Public Road Transport,na
+1965,All Items,Transport,Other Travel & Transport,na
+1965,All Items,Recreation & Culture,Recreation & Entertainment,na
+1965,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1965,All Items,Recreation & Culture,Holiday Expenses,na
+1965,All Items,Education,Tuition & Other Fees,na
+1965,All Items,Education,School Textbooks & Related Study Guides,na
+1965,All Items,Miscellaneous Goods & Services,Personal Care,na
+1965,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1965,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1965,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1966,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1966,All Items,Food Excl Food Servicing Services,Meat,na
+1966,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1966,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1966,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1966,All Items,Food Excl Food Servicing Services,Fruits,na
+1966,All Items,Food Excl Food Servicing Services,Vegetables,na
+1966,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1966,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1966,All Items,Food Excl Food Servicing Services,Other Food,na
+1966,All Items,Food Servicing Services,Restaurant Food,na
+1966,All Items,Food Servicing Services,Fast Food,na
+1966,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1966,All Items,Food Servicing Services,Catered Food,na
+1966,All Items,Housing & Utilities,Accommodation,na
+1966,All Items,Housing & Utilities,Fuel & Utilities,na
+1966,All Items,Household Durables And Services,Household Durables,na
+1966,All Items,Household Durables And Services,Household Services & Supplies,na
+1966,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1966,All Items,Health Care,Medical & Dental Treatment,na
+1966,All Items,Transport,Private Road Transport,na
+1966,All Items,Transport,Public Road Transport,na
+1966,All Items,Transport,Other Travel & Transport,na
+1966,All Items,Recreation & Culture,Recreation & Entertainment,na
+1966,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1966,All Items,Recreation & Culture,Holiday Expenses,na
+1966,All Items,Education,Tuition & Other Fees,na
+1966,All Items,Education,School Textbooks & Related Study Guides,na
+1966,All Items,Miscellaneous Goods & Services,Personal Care,na
+1966,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1966,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1966,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1967,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1967,All Items,Food Excl Food Servicing Services,Meat,na
+1967,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1967,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1967,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1967,All Items,Food Excl Food Servicing Services,Fruits,na
+1967,All Items,Food Excl Food Servicing Services,Vegetables,na
+1967,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1967,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1967,All Items,Food Excl Food Servicing Services,Other Food,na
+1967,All Items,Food Servicing Services,Restaurant Food,na
+1967,All Items,Food Servicing Services,Fast Food,na
+1967,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1967,All Items,Food Servicing Services,Catered Food,na
+1967,All Items,Housing & Utilities,Accommodation,na
+1967,All Items,Housing & Utilities,Fuel & Utilities,na
+1967,All Items,Household Durables And Services,Household Durables,na
+1967,All Items,Household Durables And Services,Household Services & Supplies,na
+1967,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1967,All Items,Health Care,Medical & Dental Treatment,na
+1967,All Items,Transport,Private Road Transport,na
+1967,All Items,Transport,Public Road Transport,na
+1967,All Items,Transport,Other Travel & Transport,na
+1967,All Items,Recreation & Culture,Recreation & Entertainment,na
+1967,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1967,All Items,Recreation & Culture,Holiday Expenses,na
+1967,All Items,Education,Tuition & Other Fees,na
+1967,All Items,Education,School Textbooks & Related Study Guides,na
+1967,All Items,Miscellaneous Goods & Services,Personal Care,na
+1967,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1967,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1967,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1968,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1968,All Items,Food Excl Food Servicing Services,Meat,na
+1968,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1968,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1968,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1968,All Items,Food Excl Food Servicing Services,Fruits,na
+1968,All Items,Food Excl Food Servicing Services,Vegetables,na
+1968,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1968,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1968,All Items,Food Excl Food Servicing Services,Other Food,na
+1968,All Items,Food Servicing Services,Restaurant Food,na
+1968,All Items,Food Servicing Services,Fast Food,na
+1968,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1968,All Items,Food Servicing Services,Catered Food,na
+1968,All Items,Housing & Utilities,Accommodation,na
+1968,All Items,Housing & Utilities,Fuel & Utilities,na
+1968,All Items,Household Durables And Services,Household Durables,na
+1968,All Items,Household Durables And Services,Household Services & Supplies,na
+1968,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1968,All Items,Health Care,Medical & Dental Treatment,na
+1968,All Items,Transport,Private Road Transport,na
+1968,All Items,Transport,Public Road Transport,na
+1968,All Items,Transport,Other Travel & Transport,na
+1968,All Items,Recreation & Culture,Recreation & Entertainment,na
+1968,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1968,All Items,Recreation & Culture,Holiday Expenses,na
+1968,All Items,Education,Tuition & Other Fees,na
+1968,All Items,Education,School Textbooks & Related Study Guides,na
+1968,All Items,Miscellaneous Goods & Services,Personal Care,na
+1968,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1968,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1968,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1969,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1969,All Items,Food Excl Food Servicing Services,Meat,na
+1969,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1969,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1969,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1969,All Items,Food Excl Food Servicing Services,Fruits,na
+1969,All Items,Food Excl Food Servicing Services,Vegetables,na
+1969,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1969,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1969,All Items,Food Excl Food Servicing Services,Other Food,na
+1969,All Items,Food Servicing Services,Restaurant Food,na
+1969,All Items,Food Servicing Services,Fast Food,na
+1969,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1969,All Items,Food Servicing Services,Catered Food,na
+1969,All Items,Housing & Utilities,Accommodation,na
+1969,All Items,Housing & Utilities,Fuel & Utilities,na
+1969,All Items,Household Durables And Services,Household Durables,na
+1969,All Items,Household Durables And Services,Household Services & Supplies,na
+1969,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1969,All Items,Health Care,Medical & Dental Treatment,na
+1969,All Items,Transport,Private Road Transport,na
+1969,All Items,Transport,Public Road Transport,na
+1969,All Items,Transport,Other Travel & Transport,na
+1969,All Items,Recreation & Culture,Recreation & Entertainment,na
+1969,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1969,All Items,Recreation & Culture,Holiday Expenses,na
+1969,All Items,Education,Tuition & Other Fees,na
+1969,All Items,Education,School Textbooks & Related Study Guides,na
+1969,All Items,Miscellaneous Goods & Services,Personal Care,na
+1969,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1969,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1969,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1970,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1970,All Items,Food Excl Food Servicing Services,Meat,na
+1970,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1970,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1970,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1970,All Items,Food Excl Food Servicing Services,Fruits,na
+1970,All Items,Food Excl Food Servicing Services,Vegetables,na
+1970,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1970,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1970,All Items,Food Excl Food Servicing Services,Other Food,na
+1970,All Items,Food Servicing Services,Restaurant Food,na
+1970,All Items,Food Servicing Services,Fast Food,na
+1970,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1970,All Items,Food Servicing Services,Catered Food,na
+1970,All Items,Housing & Utilities,Accommodation,na
+1970,All Items,Housing & Utilities,Fuel & Utilities,na
+1970,All Items,Household Durables And Services,Household Durables,na
+1970,All Items,Household Durables And Services,Household Services & Supplies,na
+1970,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1970,All Items,Health Care,Medical & Dental Treatment,na
+1970,All Items,Transport,Private Road Transport,na
+1970,All Items,Transport,Public Road Transport,na
+1970,All Items,Transport,Other Travel & Transport,na
+1970,All Items,Recreation & Culture,Recreation & Entertainment,na
+1970,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1970,All Items,Recreation & Culture,Holiday Expenses,na
+1970,All Items,Education,Tuition & Other Fees,na
+1970,All Items,Education,School Textbooks & Related Study Guides,na
+1970,All Items,Miscellaneous Goods & Services,Personal Care,na
+1970,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1970,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1970,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1971,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1971,All Items,Food Excl Food Servicing Services,Meat,na
+1971,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1971,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1971,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1971,All Items,Food Excl Food Servicing Services,Fruits,na
+1971,All Items,Food Excl Food Servicing Services,Vegetables,na
+1971,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1971,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1971,All Items,Food Excl Food Servicing Services,Other Food,na
+1971,All Items,Food Servicing Services,Restaurant Food,na
+1971,All Items,Food Servicing Services,Fast Food,na
+1971,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1971,All Items,Food Servicing Services,Catered Food,na
+1971,All Items,Housing & Utilities,Accommodation,na
+1971,All Items,Housing & Utilities,Fuel & Utilities,na
+1971,All Items,Household Durables And Services,Household Durables,na
+1971,All Items,Household Durables And Services,Household Services & Supplies,na
+1971,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1971,All Items,Health Care,Medical & Dental Treatment,na
+1971,All Items,Transport,Private Road Transport,na
+1971,All Items,Transport,Public Road Transport,na
+1971,All Items,Transport,Other Travel & Transport,na
+1971,All Items,Recreation & Culture,Recreation & Entertainment,na
+1971,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1971,All Items,Recreation & Culture,Holiday Expenses,na
+1971,All Items,Education,Tuition & Other Fees,na
+1971,All Items,Education,School Textbooks & Related Study Guides,na
+1971,All Items,Miscellaneous Goods & Services,Personal Care,na
+1971,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1971,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1971,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1972,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1972,All Items,Food Excl Food Servicing Services,Meat,na
+1972,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1972,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1972,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1972,All Items,Food Excl Food Servicing Services,Fruits,na
+1972,All Items,Food Excl Food Servicing Services,Vegetables,na
+1972,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1972,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1972,All Items,Food Excl Food Servicing Services,Other Food,na
+1972,All Items,Food Servicing Services,Restaurant Food,na
+1972,All Items,Food Servicing Services,Fast Food,na
+1972,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1972,All Items,Food Servicing Services,Catered Food,na
+1972,All Items,Housing & Utilities,Accommodation,na
+1972,All Items,Housing & Utilities,Fuel & Utilities,na
+1972,All Items,Household Durables And Services,Household Durables,na
+1972,All Items,Household Durables And Services,Household Services & Supplies,na
+1972,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1972,All Items,Health Care,Medical & Dental Treatment,na
+1972,All Items,Transport,Private Road Transport,na
+1972,All Items,Transport,Public Road Transport,na
+1972,All Items,Transport,Other Travel & Transport,na
+1972,All Items,Recreation & Culture,Recreation & Entertainment,na
+1972,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1972,All Items,Recreation & Culture,Holiday Expenses,na
+1972,All Items,Education,Tuition & Other Fees,na
+1972,All Items,Education,School Textbooks & Related Study Guides,na
+1972,All Items,Miscellaneous Goods & Services,Personal Care,na
+1972,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1972,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1972,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1973,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1973,All Items,Food Excl Food Servicing Services,Meat,na
+1973,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1973,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1973,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1973,All Items,Food Excl Food Servicing Services,Fruits,na
+1973,All Items,Food Excl Food Servicing Services,Vegetables,na
+1973,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1973,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1973,All Items,Food Excl Food Servicing Services,Other Food,na
+1973,All Items,Food Servicing Services,Restaurant Food,na
+1973,All Items,Food Servicing Services,Fast Food,na
+1973,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1973,All Items,Food Servicing Services,Catered Food,na
+1973,All Items,Housing & Utilities,Accommodation,na
+1973,All Items,Housing & Utilities,Fuel & Utilities,na
+1973,All Items,Household Durables And Services,Household Durables,na
+1973,All Items,Household Durables And Services,Household Services & Supplies,na
+1973,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1973,All Items,Health Care,Medical & Dental Treatment,na
+1973,All Items,Transport,Private Road Transport,na
+1973,All Items,Transport,Public Road Transport,na
+1973,All Items,Transport,Other Travel & Transport,na
+1973,All Items,Recreation & Culture,Recreation & Entertainment,na
+1973,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1973,All Items,Recreation & Culture,Holiday Expenses,na
+1973,All Items,Education,Tuition & Other Fees,na
+1973,All Items,Education,School Textbooks & Related Study Guides,na
+1973,All Items,Miscellaneous Goods & Services,Personal Care,na
+1973,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1973,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1973,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1974,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1974,All Items,Food Excl Food Servicing Services,Meat,na
+1974,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1974,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1974,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1974,All Items,Food Excl Food Servicing Services,Fruits,na
+1974,All Items,Food Excl Food Servicing Services,Vegetables,na
+1974,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1974,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1974,All Items,Food Excl Food Servicing Services,Other Food,na
+1974,All Items,Food Servicing Services,Restaurant Food,na
+1974,All Items,Food Servicing Services,Fast Food,na
+1974,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1974,All Items,Food Servicing Services,Catered Food,na
+1974,All Items,Housing & Utilities,Accommodation,na
+1974,All Items,Housing & Utilities,Fuel & Utilities,na
+1974,All Items,Household Durables And Services,Household Durables,na
+1974,All Items,Household Durables And Services,Household Services & Supplies,na
+1974,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1974,All Items,Health Care,Medical & Dental Treatment,na
+1974,All Items,Transport,Private Road Transport,na
+1974,All Items,Transport,Public Road Transport,na
+1974,All Items,Transport,Other Travel & Transport,na
+1974,All Items,Recreation & Culture,Recreation & Entertainment,na
+1974,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1974,All Items,Recreation & Culture,Holiday Expenses,na
+1974,All Items,Education,Tuition & Other Fees,na
+1974,All Items,Education,School Textbooks & Related Study Guides,na
+1974,All Items,Miscellaneous Goods & Services,Personal Care,na
+1974,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1974,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1974,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1975,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1975,All Items,Food Excl Food Servicing Services,Meat,na
+1975,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1975,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1975,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1975,All Items,Food Excl Food Servicing Services,Fruits,na
+1975,All Items,Food Excl Food Servicing Services,Vegetables,na
+1975,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1975,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1975,All Items,Food Excl Food Servicing Services,Other Food,na
+1975,All Items,Food Servicing Services,Restaurant Food,na
+1975,All Items,Food Servicing Services,Fast Food,na
+1975,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1975,All Items,Food Servicing Services,Catered Food,na
+1975,All Items,Housing & Utilities,Accommodation,na
+1975,All Items,Housing & Utilities,Fuel & Utilities,na
+1975,All Items,Household Durables And Services,Household Durables,na
+1975,All Items,Household Durables And Services,Household Services & Supplies,na
+1975,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1975,All Items,Health Care,Medical & Dental Treatment,na
+1975,All Items,Transport,Private Road Transport,na
+1975,All Items,Transport,Public Road Transport,na
+1975,All Items,Transport,Other Travel & Transport,na
+1975,All Items,Recreation & Culture,Recreation & Entertainment,na
+1975,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1975,All Items,Recreation & Culture,Holiday Expenses,na
+1975,All Items,Education,Tuition & Other Fees,na
+1975,All Items,Education,School Textbooks & Related Study Guides,na
+1975,All Items,Miscellaneous Goods & Services,Personal Care,na
+1975,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1975,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1975,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1976,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1976,All Items,Food Excl Food Servicing Services,Meat,na
+1976,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1976,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1976,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1976,All Items,Food Excl Food Servicing Services,Fruits,na
+1976,All Items,Food Excl Food Servicing Services,Vegetables,na
+1976,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1976,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1976,All Items,Food Excl Food Servicing Services,Other Food,na
+1976,All Items,Food Servicing Services,Restaurant Food,na
+1976,All Items,Food Servicing Services,Fast Food,na
+1976,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1976,All Items,Food Servicing Services,Catered Food,na
+1976,All Items,Housing & Utilities,Accommodation,na
+1976,All Items,Housing & Utilities,Fuel & Utilities,na
+1976,All Items,Household Durables And Services,Household Durables,na
+1976,All Items,Household Durables And Services,Household Services & Supplies,na
+1976,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1976,All Items,Health Care,Medical & Dental Treatment,na
+1976,All Items,Transport,Private Road Transport,na
+1976,All Items,Transport,Public Road Transport,na
+1976,All Items,Transport,Other Travel & Transport,na
+1976,All Items,Recreation & Culture,Recreation & Entertainment,na
+1976,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1976,All Items,Recreation & Culture,Holiday Expenses,na
+1976,All Items,Education,Tuition & Other Fees,na
+1976,All Items,Education,School Textbooks & Related Study Guides,na
+1976,All Items,Miscellaneous Goods & Services,Personal Care,na
+1976,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1976,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1976,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1977,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1977,All Items,Food Excl Food Servicing Services,Meat,na
+1977,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1977,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1977,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1977,All Items,Food Excl Food Servicing Services,Fruits,na
+1977,All Items,Food Excl Food Servicing Services,Vegetables,na
+1977,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1977,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1977,All Items,Food Excl Food Servicing Services,Other Food,na
+1977,All Items,Food Servicing Services,Restaurant Food,na
+1977,All Items,Food Servicing Services,Fast Food,na
+1977,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1977,All Items,Food Servicing Services,Catered Food,na
+1977,All Items,Housing & Utilities,Accommodation,na
+1977,All Items,Housing & Utilities,Fuel & Utilities,na
+1977,All Items,Household Durables And Services,Household Durables,na
+1977,All Items,Household Durables And Services,Household Services & Supplies,na
+1977,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1977,All Items,Health Care,Medical & Dental Treatment,na
+1977,All Items,Transport,Private Road Transport,na
+1977,All Items,Transport,Public Road Transport,na
+1977,All Items,Transport,Other Travel & Transport,na
+1977,All Items,Recreation & Culture,Recreation & Entertainment,na
+1977,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1977,All Items,Recreation & Culture,Holiday Expenses,na
+1977,All Items,Education,Tuition & Other Fees,na
+1977,All Items,Education,School Textbooks & Related Study Guides,na
+1977,All Items,Miscellaneous Goods & Services,Personal Care,na
+1977,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1977,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1977,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1978,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1978,All Items,Food Excl Food Servicing Services,Meat,na
+1978,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1978,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1978,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1978,All Items,Food Excl Food Servicing Services,Fruits,na
+1978,All Items,Food Excl Food Servicing Services,Vegetables,na
+1978,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1978,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1978,All Items,Food Excl Food Servicing Services,Other Food,na
+1978,All Items,Food Servicing Services,Restaurant Food,na
+1978,All Items,Food Servicing Services,Fast Food,na
+1978,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1978,All Items,Food Servicing Services,Catered Food,na
+1978,All Items,Housing & Utilities,Accommodation,na
+1978,All Items,Housing & Utilities,Fuel & Utilities,na
+1978,All Items,Household Durables And Services,Household Durables,na
+1978,All Items,Household Durables And Services,Household Services & Supplies,na
+1978,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1978,All Items,Health Care,Medical & Dental Treatment,na
+1978,All Items,Transport,Private Road Transport,na
+1978,All Items,Transport,Public Road Transport,na
+1978,All Items,Transport,Other Travel & Transport,na
+1978,All Items,Recreation & Culture,Recreation & Entertainment,na
+1978,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1978,All Items,Recreation & Culture,Holiday Expenses,na
+1978,All Items,Education,Tuition & Other Fees,na
+1978,All Items,Education,School Textbooks & Related Study Guides,na
+1978,All Items,Miscellaneous Goods & Services,Personal Care,na
+1978,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1978,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1978,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1979,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1979,All Items,Food Excl Food Servicing Services,Meat,na
+1979,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1979,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1979,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1979,All Items,Food Excl Food Servicing Services,Fruits,na
+1979,All Items,Food Excl Food Servicing Services,Vegetables,na
+1979,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1979,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1979,All Items,Food Excl Food Servicing Services,Other Food,na
+1979,All Items,Food Servicing Services,Restaurant Food,na
+1979,All Items,Food Servicing Services,Fast Food,na
+1979,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1979,All Items,Food Servicing Services,Catered Food,na
+1979,All Items,Housing & Utilities,Accommodation,na
+1979,All Items,Housing & Utilities,Fuel & Utilities,na
+1979,All Items,Household Durables And Services,Household Durables,na
+1979,All Items,Household Durables And Services,Household Services & Supplies,na
+1979,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1979,All Items,Health Care,Medical & Dental Treatment,na
+1979,All Items,Transport,Private Road Transport,na
+1979,All Items,Transport,Public Road Transport,na
+1979,All Items,Transport,Other Travel & Transport,na
+1979,All Items,Recreation & Culture,Recreation & Entertainment,na
+1979,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1979,All Items,Recreation & Culture,Holiday Expenses,na
+1979,All Items,Education,Tuition & Other Fees,na
+1979,All Items,Education,School Textbooks & Related Study Guides,na
+1979,All Items,Miscellaneous Goods & Services,Personal Care,na
+1979,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1979,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1979,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1980,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1980,All Items,Food Excl Food Servicing Services,Meat,na
+1980,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1980,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1980,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1980,All Items,Food Excl Food Servicing Services,Fruits,na
+1980,All Items,Food Excl Food Servicing Services,Vegetables,na
+1980,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1980,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1980,All Items,Food Excl Food Servicing Services,Other Food,na
+1980,All Items,Food Servicing Services,Restaurant Food,na
+1980,All Items,Food Servicing Services,Fast Food,na
+1980,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1980,All Items,Food Servicing Services,Catered Food,na
+1980,All Items,Housing & Utilities,Accommodation,na
+1980,All Items,Housing & Utilities,Fuel & Utilities,na
+1980,All Items,Household Durables And Services,Household Durables,na
+1980,All Items,Household Durables And Services,Household Services & Supplies,na
+1980,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1980,All Items,Health Care,Medical & Dental Treatment,na
+1980,All Items,Transport,Private Road Transport,na
+1980,All Items,Transport,Public Road Transport,na
+1980,All Items,Transport,Other Travel & Transport,na
+1980,All Items,Recreation & Culture,Recreation & Entertainment,na
+1980,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1980,All Items,Recreation & Culture,Holiday Expenses,na
+1980,All Items,Education,Tuition & Other Fees,na
+1980,All Items,Education,School Textbooks & Related Study Guides,na
+1980,All Items,Miscellaneous Goods & Services,Personal Care,na
+1980,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1980,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1980,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1981,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1981,All Items,Food Excl Food Servicing Services,Meat,na
+1981,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1981,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1981,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1981,All Items,Food Excl Food Servicing Services,Fruits,na
+1981,All Items,Food Excl Food Servicing Services,Vegetables,na
+1981,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1981,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1981,All Items,Food Excl Food Servicing Services,Other Food,na
+1981,All Items,Food Servicing Services,Restaurant Food,na
+1981,All Items,Food Servicing Services,Fast Food,na
+1981,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1981,All Items,Food Servicing Services,Catered Food,na
+1981,All Items,Housing & Utilities,Accommodation,na
+1981,All Items,Housing & Utilities,Fuel & Utilities,na
+1981,All Items,Household Durables And Services,Household Durables,na
+1981,All Items,Household Durables And Services,Household Services & Supplies,na
+1981,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1981,All Items,Health Care,Medical & Dental Treatment,na
+1981,All Items,Transport,Private Road Transport,na
+1981,All Items,Transport,Public Road Transport,na
+1981,All Items,Transport,Other Travel & Transport,na
+1981,All Items,Recreation & Culture,Recreation & Entertainment,na
+1981,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1981,All Items,Recreation & Culture,Holiday Expenses,na
+1981,All Items,Education,Tuition & Other Fees,na
+1981,All Items,Education,School Textbooks & Related Study Guides,na
+1981,All Items,Miscellaneous Goods & Services,Personal Care,na
+1981,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1981,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1981,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1982,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1982,All Items,Food Excl Food Servicing Services,Meat,na
+1982,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1982,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1982,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1982,All Items,Food Excl Food Servicing Services,Fruits,na
+1982,All Items,Food Excl Food Servicing Services,Vegetables,na
+1982,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1982,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1982,All Items,Food Excl Food Servicing Services,Other Food,na
+1982,All Items,Food Servicing Services,Restaurant Food,na
+1982,All Items,Food Servicing Services,Fast Food,na
+1982,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1982,All Items,Food Servicing Services,Catered Food,na
+1982,All Items,Housing & Utilities,Accommodation,na
+1982,All Items,Housing & Utilities,Fuel & Utilities,na
+1982,All Items,Household Durables And Services,Household Durables,na
+1982,All Items,Household Durables And Services,Household Services & Supplies,na
+1982,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1982,All Items,Health Care,Medical & Dental Treatment,na
+1982,All Items,Transport,Private Road Transport,na
+1982,All Items,Transport,Public Road Transport,na
+1982,All Items,Transport,Other Travel & Transport,na
+1982,All Items,Recreation & Culture,Recreation & Entertainment,na
+1982,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1982,All Items,Recreation & Culture,Holiday Expenses,na
+1982,All Items,Education,Tuition & Other Fees,na
+1982,All Items,Education,School Textbooks & Related Study Guides,na
+1982,All Items,Miscellaneous Goods & Services,Personal Care,na
+1982,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1982,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1982,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1983,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1983,All Items,Food Excl Food Servicing Services,Meat,na
+1983,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1983,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1983,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1983,All Items,Food Excl Food Servicing Services,Fruits,na
+1983,All Items,Food Excl Food Servicing Services,Vegetables,na
+1983,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1983,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1983,All Items,Food Excl Food Servicing Services,Other Food,na
+1983,All Items,Food Servicing Services,Restaurant Food,na
+1983,All Items,Food Servicing Services,Fast Food,na
+1983,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1983,All Items,Food Servicing Services,Catered Food,na
+1983,All Items,Housing & Utilities,Accommodation,na
+1983,All Items,Housing & Utilities,Fuel & Utilities,na
+1983,All Items,Household Durables And Services,Household Durables,na
+1983,All Items,Household Durables And Services,Household Services & Supplies,na
+1983,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1983,All Items,Health Care,Medical & Dental Treatment,na
+1983,All Items,Transport,Private Road Transport,na
+1983,All Items,Transport,Public Road Transport,na
+1983,All Items,Transport,Other Travel & Transport,na
+1983,All Items,Recreation & Culture,Recreation & Entertainment,na
+1983,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1983,All Items,Recreation & Culture,Holiday Expenses,na
+1983,All Items,Education,Tuition & Other Fees,na
+1983,All Items,Education,School Textbooks & Related Study Guides,na
+1983,All Items,Miscellaneous Goods & Services,Personal Care,na
+1983,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1983,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1983,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1984,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1984,All Items,Food Excl Food Servicing Services,Meat,na
+1984,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1984,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1984,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1984,All Items,Food Excl Food Servicing Services,Fruits,na
+1984,All Items,Food Excl Food Servicing Services,Vegetables,na
+1984,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1984,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1984,All Items,Food Excl Food Servicing Services,Other Food,na
+1984,All Items,Food Servicing Services,Restaurant Food,na
+1984,All Items,Food Servicing Services,Fast Food,na
+1984,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1984,All Items,Food Servicing Services,Catered Food,na
+1984,All Items,Housing & Utilities,Accommodation,na
+1984,All Items,Housing & Utilities,Fuel & Utilities,na
+1984,All Items,Household Durables And Services,Household Durables,na
+1984,All Items,Household Durables And Services,Household Services & Supplies,na
+1984,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1984,All Items,Health Care,Medical & Dental Treatment,na
+1984,All Items,Transport,Private Road Transport,na
+1984,All Items,Transport,Public Road Transport,na
+1984,All Items,Transport,Other Travel & Transport,na
+1984,All Items,Recreation & Culture,Recreation & Entertainment,na
+1984,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1984,All Items,Recreation & Culture,Holiday Expenses,na
+1984,All Items,Education,Tuition & Other Fees,na
+1984,All Items,Education,School Textbooks & Related Study Guides,na
+1984,All Items,Miscellaneous Goods & Services,Personal Care,na
+1984,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1984,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1984,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1985,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1985,All Items,Food Excl Food Servicing Services,Meat,na
+1985,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1985,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1985,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1985,All Items,Food Excl Food Servicing Services,Fruits,na
+1985,All Items,Food Excl Food Servicing Services,Vegetables,na
+1985,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1985,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1985,All Items,Food Excl Food Servicing Services,Other Food,na
+1985,All Items,Food Servicing Services,Restaurant Food,na
+1985,All Items,Food Servicing Services,Fast Food,na
+1985,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1985,All Items,Food Servicing Services,Catered Food,na
+1985,All Items,Housing & Utilities,Accommodation,na
+1985,All Items,Housing & Utilities,Fuel & Utilities,na
+1985,All Items,Household Durables And Services,Household Durables,na
+1985,All Items,Household Durables And Services,Household Services & Supplies,na
+1985,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1985,All Items,Health Care,Medical & Dental Treatment,na
+1985,All Items,Transport,Private Road Transport,na
+1985,All Items,Transport,Public Road Transport,na
+1985,All Items,Transport,Other Travel & Transport,na
+1985,All Items,Recreation & Culture,Recreation & Entertainment,na
+1985,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1985,All Items,Recreation & Culture,Holiday Expenses,na
+1985,All Items,Education,Tuition & Other Fees,na
+1985,All Items,Education,School Textbooks & Related Study Guides,na
+1985,All Items,Miscellaneous Goods & Services,Personal Care,na
+1985,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1985,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1985,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1986,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1986,All Items,Food Excl Food Servicing Services,Meat,na
+1986,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1986,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1986,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1986,All Items,Food Excl Food Servicing Services,Fruits,na
+1986,All Items,Food Excl Food Servicing Services,Vegetables,na
+1986,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1986,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1986,All Items,Food Excl Food Servicing Services,Other Food,na
+1986,All Items,Food Servicing Services,Restaurant Food,na
+1986,All Items,Food Servicing Services,Fast Food,na
+1986,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1986,All Items,Food Servicing Services,Catered Food,na
+1986,All Items,Housing & Utilities,Accommodation,na
+1986,All Items,Housing & Utilities,Fuel & Utilities,na
+1986,All Items,Household Durables And Services,Household Durables,na
+1986,All Items,Household Durables And Services,Household Services & Supplies,na
+1986,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1986,All Items,Health Care,Medical & Dental Treatment,na
+1986,All Items,Transport,Private Road Transport,na
+1986,All Items,Transport,Public Road Transport,na
+1986,All Items,Transport,Other Travel & Transport,na
+1986,All Items,Recreation & Culture,Recreation & Entertainment,na
+1986,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1986,All Items,Recreation & Culture,Holiday Expenses,na
+1986,All Items,Education,Tuition & Other Fees,na
+1986,All Items,Education,School Textbooks & Related Study Guides,na
+1986,All Items,Miscellaneous Goods & Services,Personal Care,na
+1986,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1986,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1986,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1987,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1987,All Items,Food Excl Food Servicing Services,Meat,na
+1987,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1987,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1987,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1987,All Items,Food Excl Food Servicing Services,Fruits,na
+1987,All Items,Food Excl Food Servicing Services,Vegetables,na
+1987,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1987,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1987,All Items,Food Excl Food Servicing Services,Other Food,na
+1987,All Items,Food Servicing Services,Restaurant Food,na
+1987,All Items,Food Servicing Services,Fast Food,na
+1987,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1987,All Items,Food Servicing Services,Catered Food,na
+1987,All Items,Housing & Utilities,Accommodation,na
+1987,All Items,Housing & Utilities,Fuel & Utilities,na
+1987,All Items,Household Durables And Services,Household Durables,na
+1987,All Items,Household Durables And Services,Household Services & Supplies,na
+1987,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1987,All Items,Health Care,Medical & Dental Treatment,na
+1987,All Items,Transport,Private Road Transport,na
+1987,All Items,Transport,Public Road Transport,na
+1987,All Items,Transport,Other Travel & Transport,na
+1987,All Items,Recreation & Culture,Recreation & Entertainment,na
+1987,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1987,All Items,Recreation & Culture,Holiday Expenses,na
+1987,All Items,Education,Tuition & Other Fees,na
+1987,All Items,Education,School Textbooks & Related Study Guides,na
+1987,All Items,Miscellaneous Goods & Services,Personal Care,na
+1987,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1987,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1987,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1988,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1988,All Items,Food Excl Food Servicing Services,Meat,na
+1988,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1988,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1988,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1988,All Items,Food Excl Food Servicing Services,Fruits,na
+1988,All Items,Food Excl Food Servicing Services,Vegetables,na
+1988,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1988,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1988,All Items,Food Excl Food Servicing Services,Other Food,na
+1988,All Items,Food Servicing Services,Restaurant Food,na
+1988,All Items,Food Servicing Services,Fast Food,na
+1988,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1988,All Items,Food Servicing Services,Catered Food,na
+1988,All Items,Housing & Utilities,Accommodation,na
+1988,All Items,Housing & Utilities,Fuel & Utilities,na
+1988,All Items,Household Durables And Services,Household Durables,na
+1988,All Items,Household Durables And Services,Household Services & Supplies,na
+1988,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1988,All Items,Health Care,Medical & Dental Treatment,na
+1988,All Items,Transport,Private Road Transport,na
+1988,All Items,Transport,Public Road Transport,na
+1988,All Items,Transport,Other Travel & Transport,na
+1988,All Items,Recreation & Culture,Recreation & Entertainment,na
+1988,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1988,All Items,Recreation & Culture,Holiday Expenses,na
+1988,All Items,Education,Tuition & Other Fees,na
+1988,All Items,Education,School Textbooks & Related Study Guides,na
+1988,All Items,Miscellaneous Goods & Services,Personal Care,na
+1988,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1988,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1988,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1989,All Items,Food Excl Food Servicing Services,Bread & Cereals,na
+1989,All Items,Food Excl Food Servicing Services,Meat,na
+1989,All Items,Food Excl Food Servicing Services,Fish & Seafood,na
+1989,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",na
+1989,All Items,Food Excl Food Servicing Services,Oils & Fats,na
+1989,All Items,Food Excl Food Servicing Services,Fruits,na
+1989,All Items,Food Excl Food Servicing Services,Vegetables,na
+1989,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",na
+1989,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,na
+1989,All Items,Food Excl Food Servicing Services,Other Food,na
+1989,All Items,Food Servicing Services,Restaurant Food,na
+1989,All Items,Food Servicing Services,Fast Food,na
+1989,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),na
+1989,All Items,Food Servicing Services,Catered Food,na
+1989,All Items,Housing & Utilities,Accommodation,na
+1989,All Items,Housing & Utilities,Fuel & Utilities,na
+1989,All Items,Household Durables And Services,Household Durables,na
+1989,All Items,Household Durables And Services,Household Services & Supplies,na
+1989,All Items,Health Care,"Medical Products, Appliances & Equipment",na
+1989,All Items,Health Care,Medical & Dental Treatment,na
+1989,All Items,Transport,Private Road Transport,na
+1989,All Items,Transport,Public Road Transport,na
+1989,All Items,Transport,Other Travel & Transport,na
+1989,All Items,Recreation & Culture,Recreation & Entertainment,na
+1989,All Items,Recreation & Culture,"Newspapers, Books & Stationery",na
+1989,All Items,Recreation & Culture,Holiday Expenses,na
+1989,All Items,Education,Tuition & Other Fees,na
+1989,All Items,Education,School Textbooks & Related Study Guides,na
+1989,All Items,Miscellaneous Goods & Services,Personal Care,na
+1989,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,na
+1989,All Items,Miscellaneous Goods & Services,Personal Effects,na
+1989,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1990,All Items,Food Excl Food Servicing Services,Bread & Cereals,59.855
+1990,All Items,Food Excl Food Servicing Services,Meat,54.282
+1990,All Items,Food Excl Food Servicing Services,Fish & Seafood,58.462
+1990,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",62.291
+1990,All Items,Food Excl Food Servicing Services,Oils & Fats,65.595
+1990,All Items,Food Excl Food Servicing Services,Fruits,67.896
+1990,All Items,Food Excl Food Servicing Services,Vegetables,71.711
+1990,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",79.183
+1990,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,78.873
+1990,All Items,Food Excl Food Servicing Services,Other Food,64.165
+1990,All Items,Food Servicing Services,Restaurant Food,57.368
+1990,All Items,Food Servicing Services,Fast Food,66.942
+1990,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),64.948
+1990,All Items,Food Servicing Services,Catered Food,na
+1990,All Items,Housing & Utilities,Accommodation,56.959
+1990,All Items,Housing & Utilities,Fuel & Utilities,47.776
+1990,All Items,Household Durables And Services,Household Durables,99.431
+1990,All Items,Household Durables And Services,Household Services & Supplies,69.23
+1990,All Items,Health Care,"Medical Products, Appliances & Equipment",75.478
+1990,All Items,Health Care,Medical & Dental Treatment,41.955
+1990,All Items,Transport,Private Road Transport,62.418
+1990,All Items,Transport,Public Road Transport,58.345
+1990,All Items,Transport,Other Travel & Transport,83.119
+1990,All Items,Recreation & Culture,Recreation & Entertainment,99.681
+1990,All Items,Recreation & Culture,"Newspapers, Books & Stationery",67.504
+1990,All Items,Recreation & Culture,Holiday Expenses,76.043
+1990,All Items,Education,Tuition & Other Fees,38.845
+1990,All Items,Education,School Textbooks & Related Study Guides,53.673
+1990,All Items,Miscellaneous Goods & Services,Personal Care,82.79
+1990,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,28.044
+1990,All Items,Miscellaneous Goods & Services,Personal Effects,98.67
+1990,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1991,All Items,Food Excl Food Servicing Services,Bread & Cereals,60.286
+1991,All Items,Food Excl Food Servicing Services,Meat,52.835
+1991,All Items,Food Excl Food Servicing Services,Fish & Seafood,60.665
+1991,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",61.585
+1991,All Items,Food Excl Food Servicing Services,Oils & Fats,66.012
+1991,All Items,Food Excl Food Servicing Services,Fruits,71.002
+1991,All Items,Food Excl Food Servicing Services,Vegetables,75.204
+1991,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",76.069
+1991,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,76.29
+1991,All Items,Food Excl Food Servicing Services,Other Food,66.209
+1991,All Items,Food Servicing Services,Restaurant Food,58.69
+1991,All Items,Food Servicing Services,Fast Food,69.489
+1991,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),66.138
+1991,All Items,Food Servicing Services,Catered Food,na
+1991,All Items,Housing & Utilities,Accommodation,58.318
+1991,All Items,Housing & Utilities,Fuel & Utilities,48.771
+1991,All Items,Household Durables And Services,Household Durables,99.748
+1991,All Items,Household Durables And Services,Household Services & Supplies,69.89
+1991,All Items,Health Care,"Medical Products, Appliances & Equipment",75.43
+1991,All Items,Health Care,Medical & Dental Treatment,47.241
+1991,All Items,Transport,Private Road Transport,63.932
+1991,All Items,Transport,Public Road Transport,66.83
+1991,All Items,Transport,Other Travel & Transport,89.78
+1991,All Items,Recreation & Culture,Recreation & Entertainment,104.855
+1991,All Items,Recreation & Culture,"Newspapers, Books & Stationery",68.702
+1991,All Items,Recreation & Culture,Holiday Expenses,78.58
+1991,All Items,Education,Tuition & Other Fees,43.505
+1991,All Items,Education,School Textbooks & Related Study Guides,55.813
+1991,All Items,Miscellaneous Goods & Services,Personal Care,83.357
+1991,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,31.654
+1991,All Items,Miscellaneous Goods & Services,Personal Effects,101.859
+1991,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1992,All Items,Food Excl Food Servicing Services,Bread & Cereals,61.375
+1992,All Items,Food Excl Food Servicing Services,Meat,54.208
+1992,All Items,Food Excl Food Servicing Services,Fish & Seafood,63.332
+1992,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",60.739
+1992,All Items,Food Excl Food Servicing Services,Oils & Fats,65.933
+1992,All Items,Food Excl Food Servicing Services,Fruits,68.981
+1992,All Items,Food Excl Food Servicing Services,Vegetables,74.309
+1992,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",75.255
+1992,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,75.149
+1992,All Items,Food Excl Food Servicing Services,Other Food,67.525
+1992,All Items,Food Servicing Services,Restaurant Food,59.928
+1992,All Items,Food Servicing Services,Fast Food,71.146
+1992,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),66.888
+1992,All Items,Food Servicing Services,Catered Food,na
+1992,All Items,Housing & Utilities,Accommodation,61.12
+1992,All Items,Housing & Utilities,Fuel & Utilities,47.453
+1992,All Items,Household Durables And Services,Household Durables,100.024
+1992,All Items,Household Durables And Services,Household Services & Supplies,72.785
+1992,All Items,Health Care,"Medical Products, Appliances & Equipment",75.538
+1992,All Items,Health Care,Medical & Dental Treatment,48.952
+1992,All Items,Transport,Private Road Transport,67.68
+1992,All Items,Transport,Public Road Transport,66.848
+1992,All Items,Transport,Other Travel & Transport,91.187
+1992,All Items,Recreation & Culture,Recreation & Entertainment,109.282
+1992,All Items,Recreation & Culture,"Newspapers, Books & Stationery",69.147
+1992,All Items,Recreation & Culture,Holiday Expenses,78.962
+1992,All Items,Education,Tuition & Other Fees,46.593
+1992,All Items,Education,School Textbooks & Related Study Guides,57.374
+1992,All Items,Miscellaneous Goods & Services,Personal Care,83.481
+1992,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,33.903
+1992,All Items,Miscellaneous Goods & Services,Personal Effects,101.845
+1992,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1993,All Items,Food Excl Food Servicing Services,Bread & Cereals,61.801
+1993,All Items,Food Excl Food Servicing Services,Meat,53.964
+1993,All Items,Food Excl Food Servicing Services,Fish & Seafood,64.229
+1993,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",60.595
+1993,All Items,Food Excl Food Servicing Services,Oils & Fats,65.922
+1993,All Items,Food Excl Food Servicing Services,Fruits,67.726
+1993,All Items,Food Excl Food Servicing Services,Vegetables,73.79
+1993,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",74.683
+1993,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,74.478
+1993,All Items,Food Excl Food Servicing Services,Other Food,68.471
+1993,All Items,Food Servicing Services,Restaurant Food,61.871
+1993,All Items,Food Servicing Services,Fast Food,72.515
+1993,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),67.972
+1993,All Items,Food Servicing Services,Catered Food,na
+1993,All Items,Housing & Utilities,Accommodation,63.593
+1993,All Items,Housing & Utilities,Fuel & Utilities,48.742
+1993,All Items,Household Durables And Services,Household Durables,101.78
+1993,All Items,Household Durables And Services,Household Services & Supplies,73.851
+1993,All Items,Health Care,"Medical Products, Appliances & Equipment",75.608
+1993,All Items,Health Care,Medical & Dental Treatment,51.331
+1993,All Items,Transport,Private Road Transport,71.098
+1993,All Items,Transport,Public Road Transport,67.053
+1993,All Items,Transport,Other Travel & Transport,90.47
+1993,All Items,Recreation & Culture,Recreation & Entertainment,111.798
+1993,All Items,Recreation & Culture,"Newspapers, Books & Stationery",69.798
+1993,All Items,Recreation & Culture,Holiday Expenses,80.11
+1993,All Items,Education,Tuition & Other Fees,48.573
+1993,All Items,Education,School Textbooks & Related Study Guides,60.04
+1993,All Items,Miscellaneous Goods & Services,Personal Care,84.785
+1993,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,38.436
+1993,All Items,Miscellaneous Goods & Services,Personal Effects,101.914
+1993,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1994,All Items,Food Excl Food Servicing Services,Bread & Cereals,64.892
+1994,All Items,Food Excl Food Servicing Services,Meat,54.986
+1994,All Items,Food Excl Food Servicing Services,Fish & Seafood,69.161
+1994,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",60.924
+1994,All Items,Food Excl Food Servicing Services,Oils & Fats,67.643
+1994,All Items,Food Excl Food Servicing Services,Fruits,68.812
+1994,All Items,Food Excl Food Servicing Services,Vegetables,72.968
+1994,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",75.642
+1994,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,75.97
+1994,All Items,Food Excl Food Servicing Services,Other Food,70.283
+1994,All Items,Food Servicing Services,Restaurant Food,64.698
+1994,All Items,Food Servicing Services,Fast Food,73.479
+1994,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),70.657
+1994,All Items,Food Servicing Services,Catered Food,na
+1994,All Items,Housing & Utilities,Accommodation,64.567
+1994,All Items,Housing & Utilities,Fuel & Utilities,49.016
+1994,All Items,Household Durables And Services,Household Durables,103.372
+1994,All Items,Household Durables And Services,Household Services & Supplies,74.157
+1994,All Items,Health Care,"Medical Products, Appliances & Equipment",76.308
+1994,All Items,Health Care,Medical & Dental Treatment,53.33
+1994,All Items,Transport,Private Road Transport,78.694
+1994,All Items,Transport,Public Road Transport,68.596
+1994,All Items,Transport,Other Travel & Transport,90.229
+1994,All Items,Recreation & Culture,Recreation & Entertainment,114.766
+1994,All Items,Recreation & Culture,"Newspapers, Books & Stationery",70.614
+1994,All Items,Recreation & Culture,Holiday Expenses,79.337
+1994,All Items,Education,Tuition & Other Fees,50.091
+1994,All Items,Education,School Textbooks & Related Study Guides,62.767
+1994,All Items,Miscellaneous Goods & Services,Personal Care,86.138
+1994,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,40.346
+1994,All Items,Miscellaneous Goods & Services,Personal Effects,104.08
+1994,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1995,All Items,Food Excl Food Servicing Services,Bread & Cereals,65.82
+1995,All Items,Food Excl Food Servicing Services,Meat,54.631
+1995,All Items,Food Excl Food Servicing Services,Fish & Seafood,71.107
+1995,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",61.005
+1995,All Items,Food Excl Food Servicing Services,Oils & Fats,70.409
+1995,All Items,Food Excl Food Servicing Services,Fruits,68.896
+1995,All Items,Food Excl Food Servicing Services,Vegetables,75.787
+1995,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",76.649
+1995,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,76.693
+1995,All Items,Food Excl Food Servicing Services,Other Food,71.112
+1995,All Items,Food Servicing Services,Restaurant Food,67.101
+1995,All Items,Food Servicing Services,Fast Food,76.105
+1995,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),72.66
+1995,All Items,Food Servicing Services,Catered Food,na
+1995,All Items,Housing & Utilities,Accommodation,64.814
+1995,All Items,Housing & Utilities,Fuel & Utilities,51.06
+1995,All Items,Household Durables And Services,Household Durables,104.605
+1995,All Items,Household Durables And Services,Household Services & Supplies,79.722
+1995,All Items,Health Care,"Medical Products, Appliances & Equipment",76.768
+1995,All Items,Health Care,Medical & Dental Treatment,54.374
+1995,All Items,Transport,Private Road Transport,78.905
+1995,All Items,Transport,Public Road Transport,70.318
+1995,All Items,Transport,Other Travel & Transport,89.523
+1995,All Items,Recreation & Culture,Recreation & Entertainment,114.87
+1995,All Items,Recreation & Culture,"Newspapers, Books & Stationery",77.401
+1995,All Items,Recreation & Culture,Holiday Expenses,78.5
+1995,All Items,Education,Tuition & Other Fees,52.147
+1995,All Items,Education,School Textbooks & Related Study Guides,64.833
+1995,All Items,Miscellaneous Goods & Services,Personal Care,86.967
+1995,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,41.49
+1995,All Items,Miscellaneous Goods & Services,Personal Effects,102.942
+1995,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1996,All Items,Food Excl Food Servicing Services,Bread & Cereals,66.932
+1996,All Items,Food Excl Food Servicing Services,Meat,56.554
+1996,All Items,Food Excl Food Servicing Services,Fish & Seafood,71.929
+1996,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",62.717
+1996,All Items,Food Excl Food Servicing Services,Oils & Fats,69.994
+1996,All Items,Food Excl Food Servicing Services,Fruits,71.035
+1996,All Items,Food Excl Food Servicing Services,Vegetables,76.275
+1996,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",76.593
+1996,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,76.028
+1996,All Items,Food Excl Food Servicing Services,Other Food,70.808
+1996,All Items,Food Servicing Services,Restaurant Food,68.201
+1996,All Items,Food Servicing Services,Fast Food,77.722
+1996,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),74.672
+1996,All Items,Food Servicing Services,Catered Food,na
+1996,All Items,Housing & Utilities,Accommodation,65.08
+1996,All Items,Housing & Utilities,Fuel & Utilities,52.895
+1996,All Items,Household Durables And Services,Household Durables,104.422
+1996,All Items,Household Durables And Services,Household Services & Supplies,80.675
+1996,All Items,Health Care,"Medical Products, Appliances & Equipment",76.783
+1996,All Items,Health Care,Medical & Dental Treatment,56.017
+1996,All Items,Transport,Private Road Transport,78.656
+1996,All Items,Transport,Public Road Transport,71.828
+1996,All Items,Transport,Other Travel & Transport,87.703
+1996,All Items,Recreation & Culture,Recreation & Entertainment,115.073
+1996,All Items,Recreation & Culture,"Newspapers, Books & Stationery",78.579
+1996,All Items,Recreation & Culture,Holiday Expenses,80.706
+1996,All Items,Education,Tuition & Other Fees,54.565
+1996,All Items,Education,School Textbooks & Related Study Guides,66.82
+1996,All Items,Miscellaneous Goods & Services,Personal Care,87.777
+1996,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,42.756
+1996,All Items,Miscellaneous Goods & Services,Personal Effects,101.381
+1996,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1997,All Items,Food Excl Food Servicing Services,Bread & Cereals,71.244
+1997,All Items,Food Excl Food Servicing Services,Meat,57.761
+1997,All Items,Food Excl Food Servicing Services,Fish & Seafood,75.677
+1997,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",63.443
+1997,All Items,Food Excl Food Servicing Services,Oils & Fats,69.242
+1997,All Items,Food Excl Food Servicing Services,Fruits,70.227
+1997,All Items,Food Excl Food Servicing Services,Vegetables,75.202
+1997,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",77.404
+1997,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,76.38
+1997,All Items,Food Excl Food Servicing Services,Other Food,72.086
+1997,All Items,Food Servicing Services,Restaurant Food,69.76
+1997,All Items,Food Servicing Services,Fast Food,76.776
+1997,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),75.984
+1997,All Items,Food Servicing Services,Catered Food,na
+1997,All Items,Housing & Utilities,Accommodation,66.665
+1997,All Items,Housing & Utilities,Fuel & Utilities,55.736
+1997,All Items,Household Durables And Services,Household Durables,104.327
+1997,All Items,Household Durables And Services,Household Services & Supplies,80.514
+1997,All Items,Health Care,"Medical Products, Appliances & Equipment",77.071
+1997,All Items,Health Care,Medical & Dental Treatment,58.698
+1997,All Items,Transport,Private Road Transport,82.782
+1997,All Items,Transport,Public Road Transport,74.355
+1997,All Items,Transport,Other Travel & Transport,88.765
+1997,All Items,Recreation & Culture,Recreation & Entertainment,114.895
+1997,All Items,Recreation & Culture,"Newspapers, Books & Stationery",78.604
+1997,All Items,Recreation & Culture,Holiday Expenses,78.524
+1997,All Items,Education,Tuition & Other Fees,56.163
+1997,All Items,Education,School Textbooks & Related Study Guides,67.394
+1997,All Items,Miscellaneous Goods & Services,Personal Care,88.116
+1997,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,44.352
+1997,All Items,Miscellaneous Goods & Services,Personal Effects,99.847
+1997,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1998,All Items,Food Excl Food Servicing Services,Bread & Cereals,72.242
+1998,All Items,Food Excl Food Servicing Services,Meat,56.816
+1998,All Items,Food Excl Food Servicing Services,Fish & Seafood,70.988
+1998,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",62.942
+1998,All Items,Food Excl Food Servicing Services,Oils & Fats,69.479
+1998,All Items,Food Excl Food Servicing Services,Fruits,70.934
+1998,All Items,Food Excl Food Servicing Services,Vegetables,76.62
+1998,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",77.946
+1998,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,76.663
+1998,All Items,Food Excl Food Servicing Services,Other Food,75.675
+1998,All Items,Food Servicing Services,Restaurant Food,71.156
+1998,All Items,Food Servicing Services,Fast Food,78.886
+1998,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),76.859
+1998,All Items,Food Servicing Services,Catered Food,na
+1998,All Items,Housing & Utilities,Accommodation,67.974
+1998,All Items,Housing & Utilities,Fuel & Utilities,58.802
+1998,All Items,Household Durables And Services,Household Durables,103.241
+1998,All Items,Household Durables And Services,Household Services & Supplies,81.732
+1998,All Items,Health Care,"Medical Products, Appliances & Equipment",77.254
+1998,All Items,Health Care,Medical & Dental Treatment,61.912
+1998,All Items,Transport,Private Road Transport,75.356
+1998,All Items,Transport,Public Road Transport,76.101
+1998,All Items,Transport,Other Travel & Transport,87.019
+1998,All Items,Recreation & Culture,Recreation & Entertainment,114.026
+1998,All Items,Recreation & Culture,"Newspapers, Books & Stationery",78.702
+1998,All Items,Recreation & Culture,Holiday Expenses,70.869
+1998,All Items,Education,Tuition & Other Fees,59.141
+1998,All Items,Education,School Textbooks & Related Study Guides,67.78
+1998,All Items,Miscellaneous Goods & Services,Personal Care,88.669
+1998,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,46.505
+1998,All Items,Miscellaneous Goods & Services,Personal Effects,97.257
+1998,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+1999,All Items,Food Excl Food Servicing Services,Bread & Cereals,71.448
+1999,All Items,Food Excl Food Servicing Services,Meat,61.59
+1999,All Items,Food Excl Food Servicing Services,Fish & Seafood,71.765
+1999,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",62.272
+1999,All Items,Food Excl Food Servicing Services,Oils & Fats,69.771
+1999,All Items,Food Excl Food Servicing Services,Fruits,71.641
+1999,All Items,Food Excl Food Servicing Services,Vegetables,76.007
+1999,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",78.389
+1999,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,76.359
+1999,All Items,Food Excl Food Servicing Services,Other Food,75.791
+1999,All Items,Food Servicing Services,Restaurant Food,71.758
+1999,All Items,Food Servicing Services,Fast Food,79.366
+1999,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),77.264
+1999,All Items,Food Servicing Services,Catered Food,na
+1999,All Items,Housing & Utilities,Accommodation,66.538
+1999,All Items,Housing & Utilities,Fuel & Utilities,60.133
+1999,All Items,Household Durables And Services,Household Durables,101.985
+1999,All Items,Household Durables And Services,Household Services & Supplies,82.53
+1999,All Items,Health Care,"Medical Products, Appliances & Equipment",76.822
+1999,All Items,Health Care,Medical & Dental Treatment,62.331
+1999,All Items,Transport,Private Road Transport,75.056
+1999,All Items,Transport,Public Road Transport,75.927
+1999,All Items,Transport,Other Travel & Transport,86.948
+1999,All Items,Recreation & Culture,Recreation & Entertainment,110.771
+1999,All Items,Recreation & Culture,"Newspapers, Books & Stationery",78.949
+1999,All Items,Recreation & Culture,Holiday Expenses,71.67
+1999,All Items,Education,Tuition & Other Fees,61.791
+1999,All Items,Education,School Textbooks & Related Study Guides,67.547
+1999,All Items,Miscellaneous Goods & Services,Personal Care,89.543
+1999,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,47.912
+1999,All Items,Miscellaneous Goods & Services,Personal Effects,96.067
+1999,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+2000,All Items,Food Excl Food Servicing Services,Bread & Cereals,71.469
+2000,All Items,Food Excl Food Servicing Services,Meat,64.371
+2000,All Items,Food Excl Food Servicing Services,Fish & Seafood,74.251
+2000,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",61.365
+2000,All Items,Food Excl Food Servicing Services,Oils & Fats,66.84
+2000,All Items,Food Excl Food Servicing Services,Fruits,69.989
+2000,All Items,Food Excl Food Servicing Services,Vegetables,73.768
+2000,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",76.94
+2000,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,76.072
+2000,All Items,Food Excl Food Servicing Services,Other Food,75.364
+2000,All Items,Food Servicing Services,Restaurant Food,72.021
+2000,All Items,Food Servicing Services,Fast Food,79.994
+2000,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),77.712
+2000,All Items,Food Servicing Services,Catered Food,na
+2000,All Items,Housing & Utilities,Accommodation,65.907
+2000,All Items,Housing & Utilities,Fuel & Utilities,70.853
+2000,All Items,Household Durables And Services,Household Durables,100.607
+2000,All Items,Household Durables And Services,Household Services & Supplies,82.66
+2000,All Items,Health Care,"Medical Products, Appliances & Equipment",76.617
+2000,All Items,Health Care,Medical & Dental Treatment,63.4
+2000,All Items,Transport,Private Road Transport,78.044
+2000,All Items,Transport,Public Road Transport,78.034
+2000,All Items,Transport,Other Travel & Transport,89.999
+2000,All Items,Recreation & Culture,Recreation & Entertainment,108.871
+2000,All Items,Recreation & Culture,"Newspapers, Books & Stationery",79.125
+2000,All Items,Recreation & Culture,Holiday Expenses,74.593
+2000,All Items,Education,Tuition & Other Fees,63.53
+2000,All Items,Education,School Textbooks & Related Study Guides,66.775
+2000,All Items,Miscellaneous Goods & Services,Personal Care,90.102
+2000,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,50.716
+2000,All Items,Miscellaneous Goods & Services,Personal Effects,95.463
+2000,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+2001,All Items,Food Excl Food Servicing Services,Bread & Cereals,70.843
+2001,All Items,Food Excl Food Servicing Services,Meat,64.086
+2001,All Items,Food Excl Food Servicing Services,Fish & Seafood,74.606
+2001,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",61.301
+2001,All Items,Food Excl Food Servicing Services,Oils & Fats,63.532
+2001,All Items,Food Excl Food Servicing Services,Fruits,69.951
+2001,All Items,Food Excl Food Servicing Services,Vegetables,72.309
+2001,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",76.794
+2001,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,77.661
+2001,All Items,Food Excl Food Servicing Services,Other Food,75.053
+2001,All Items,Food Servicing Services,Restaurant Food,73.521
+2001,All Items,Food Servicing Services,Fast Food,81.935
+2001,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),78.4
+2001,All Items,Food Servicing Services,Catered Food,na
+2001,All Items,Housing & Utilities,Accommodation,66.356
+2001,All Items,Housing & Utilities,Fuel & Utilities,75.186
+2001,All Items,Household Durables And Services,Household Durables,99.52
+2001,All Items,Household Durables And Services,Household Services & Supplies,82.755
+2001,All Items,Health Care,"Medical Products, Appliances & Equipment",77.491
+2001,All Items,Health Care,Medical & Dental Treatment,65.777
+2001,All Items,Transport,Private Road Transport,75.719
+2001,All Items,Transport,Public Road Transport,79.921
+2001,All Items,Transport,Other Travel & Transport,89.675
+2001,All Items,Recreation & Culture,Recreation & Entertainment,107.814
+2001,All Items,Recreation & Culture,"Newspapers, Books & Stationery",80.035
+2001,All Items,Recreation & Culture,Holiday Expenses,79.613
+2001,All Items,Education,Tuition & Other Fees,66.044
+2001,All Items,Education,School Textbooks & Related Study Guides,68.663
+2001,All Items,Miscellaneous Goods & Services,Personal Care,92.109
+2001,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,55.38
+2001,All Items,Miscellaneous Goods & Services,Personal Effects,95.166
+2001,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+2002,All Items,Food Excl Food Servicing Services,Bread & Cereals,68.241
+2002,All Items,Food Excl Food Servicing Services,Meat,64.562
+2002,All Items,Food Excl Food Servicing Services,Fish & Seafood,73.131
+2002,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",61.009
+2002,All Items,Food Excl Food Servicing Services,Oils & Fats,61.647
+2002,All Items,Food Excl Food Servicing Services,Fruits,69.187
+2002,All Items,Food Excl Food Servicing Services,Vegetables,73.117
+2002,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",76.202
+2002,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,76.887
+2002,All Items,Food Excl Food Servicing Services,Other Food,74.897
+2002,All Items,Food Servicing Services,Restaurant Food,74.03
+2002,All Items,Food Servicing Services,Fast Food,83.118
+2002,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),79.106
+2002,All Items,Food Servicing Services,Catered Food,na
+2002,All Items,Housing & Utilities,Accommodation,65.83
+2002,All Items,Housing & Utilities,Fuel & Utilities,70.164
+2002,All Items,Household Durables And Services,Household Durables,97.867
+2002,All Items,Household Durables And Services,Household Services & Supplies,82.717
+2002,All Items,Health Care,"Medical Products, Appliances & Equipment",78.675
+2002,All Items,Health Care,Medical & Dental Treatment,68.176
+2002,All Items,Transport,Private Road Transport,73.697
+2002,All Items,Transport,Public Road Transport,81.238
+2002,All Items,Transport,Other Travel & Transport,87.658
+2002,All Items,Recreation & Culture,Recreation & Entertainment,106.831
+2002,All Items,Recreation & Culture,"Newspapers, Books & Stationery",81.094
+2002,All Items,Recreation & Culture,Holiday Expenses,80.238
+2002,All Items,Education,Tuition & Other Fees,67.518
+2002,All Items,Education,School Textbooks & Related Study Guides,71.48
+2002,All Items,Miscellaneous Goods & Services,Personal Care,91.627
+2002,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,55.967
+2002,All Items,Miscellaneous Goods & Services,Personal Effects,94.743
+2002,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+2003,All Items,Food Excl Food Servicing Services,Bread & Cereals,69.607
+2003,All Items,Food Excl Food Servicing Services,Meat,66.816
+2003,All Items,Food Excl Food Servicing Services,Fish & Seafood,71.82
+2003,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",61.449
+2003,All Items,Food Excl Food Servicing Services,Oils & Fats,62.861
+2003,All Items,Food Excl Food Servicing Services,Fruits,70.044
+2003,All Items,Food Excl Food Servicing Services,Vegetables,71.632
+2003,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",77.241
+2003,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,77.618
+2003,All Items,Food Excl Food Servicing Services,Other Food,74.765
+2003,All Items,Food Servicing Services,Restaurant Food,75.437
+2003,All Items,Food Servicing Services,Fast Food,84.029
+2003,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),79.265
+2003,All Items,Food Servicing Services,Catered Food,na
+2003,All Items,Housing & Utilities,Accommodation,65.089
+2003,All Items,Housing & Utilities,Fuel & Utilities,71.802
+2003,All Items,Household Durables And Services,Household Durables,96.871
+2003,All Items,Household Durables And Services,Household Services & Supplies,82.702
+2003,All Items,Health Care,"Medical Products, Appliances & Equipment",79.848
+2003,All Items,Health Care,Medical & Dental Treatment,69.596
+2003,All Items,Transport,Private Road Transport,73.031
+2003,All Items,Transport,Public Road Transport,82.07
+2003,All Items,Transport,Other Travel & Transport,87.414
+2003,All Items,Recreation & Culture,Recreation & Entertainment,106.173
+2003,All Items,Recreation & Culture,"Newspapers, Books & Stationery",82.546
+2003,All Items,Recreation & Culture,Holiday Expenses,77.267
+2003,All Items,Education,Tuition & Other Fees,69.717
+2003,All Items,Education,School Textbooks & Related Study Guides,75.388
+2003,All Items,Miscellaneous Goods & Services,Personal Care,91.842
+2003,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,64.494
+2003,All Items,Miscellaneous Goods & Services,Personal Effects,95.924
+2003,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+2004,All Items,Food Excl Food Servicing Services,Bread & Cereals,72.083
+2004,All Items,Food Excl Food Servicing Services,Meat,71.929
+2004,All Items,Food Excl Food Servicing Services,Fish & Seafood,72.685
+2004,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",66.157
+2004,All Items,Food Excl Food Servicing Services,Oils & Fats,64.835
+2004,All Items,Food Excl Food Servicing Services,Fruits,71.261
+2004,All Items,Food Excl Food Servicing Services,Vegetables,71.492
+2004,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",78.386
+2004,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,79.3
+2004,All Items,Food Excl Food Servicing Services,Other Food,74.753
+2004,All Items,Food Servicing Services,Restaurant Food,77.595
+2004,All Items,Food Servicing Services,Fast Food,85.089
+2004,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),79.772
+2004,All Items,Food Servicing Services,Catered Food,87.311
+2004,All Items,Housing & Utilities,Accommodation,64.744
+2004,All Items,Housing & Utilities,Fuel & Utilities,72.74
+2004,All Items,Household Durables And Services,Household Durables,97.801
+2004,All Items,Household Durables And Services,Household Services & Supplies,80.852
+2004,All Items,Health Care,"Medical Products, Appliances & Equipment",80.921
+2004,All Items,Health Care,Medical & Dental Treatment,74.84
+2004,All Items,Transport,Private Road Transport,74.818
+2004,All Items,Transport,Public Road Transport,82.034
+2004,All Items,Transport,Other Travel & Transport,86.438
+2004,All Items,Recreation & Culture,Recreation & Entertainment,105.768
+2004,All Items,Recreation & Culture,"Newspapers, Books & Stationery",90.631
+2004,All Items,Recreation & Culture,Holiday Expenses,77.92
+2004,All Items,Education,Tuition & Other Fees,72.311
+2004,All Items,Education,School Textbooks & Related Study Guides,76.895
+2004,All Items,Miscellaneous Goods & Services,Personal Care,92.405
+2004,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,75.284
+2004,All Items,Miscellaneous Goods & Services,Personal Effects,96.19
+2004,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+2005,All Items,Food Excl Food Servicing Services,Bread & Cereals,73.036
+2005,All Items,Food Excl Food Servicing Services,Meat,75.566
+2005,All Items,Food Excl Food Servicing Services,Fish & Seafood,74.464
+2005,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",66.214
+2005,All Items,Food Excl Food Servicing Services,Oils & Fats,65.398
+2005,All Items,Food Excl Food Servicing Services,Fruits,70.972
+2005,All Items,Food Excl Food Servicing Services,Vegetables,73.429
+2005,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",79.809
+2005,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,80.429
+2005,All Items,Food Excl Food Servicing Services,Other Food,76.289
+2005,All Items,Food Servicing Services,Restaurant Food,78.923
+2005,All Items,Food Servicing Services,Fast Food,85.456
+2005,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),80.197
+2005,All Items,Food Servicing Services,Catered Food,87.607
+2005,All Items,Housing & Utilities,Accommodation,64.686
+2005,All Items,Housing & Utilities,Fuel & Utilities,76.645
+2005,All Items,Household Durables And Services,Household Durables,97.278
+2005,All Items,Household Durables And Services,Household Services & Supplies,76.97
+2005,All Items,Health Care,"Medical Products, Appliances & Equipment",80.948
+2005,All Items,Health Care,Medical & Dental Treatment,75.318
+2005,All Items,Transport,Private Road Transport,71.974
+2005,All Items,Transport,Public Road Transport,82.802
+2005,All Items,Transport,Other Travel & Transport,84.538
+2005,All Items,Recreation & Culture,Recreation & Entertainment,105.603
+2005,All Items,Recreation & Culture,"Newspapers, Books & Stationery",90.858
+2005,All Items,Recreation & Culture,Holiday Expenses,80.184
+2005,All Items,Education,Tuition & Other Fees,74.646
+2005,All Items,Education,School Textbooks & Related Study Guides,78.681
+2005,All Items,Miscellaneous Goods & Services,Personal Care,92.752
+2005,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,85.043
+2005,All Items,Miscellaneous Goods & Services,Personal Effects,93.965
+2005,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+2006,All Items,Food Excl Food Servicing Services,Bread & Cereals,73.914
+2006,All Items,Food Excl Food Servicing Services,Meat,76.483
+2006,All Items,Food Excl Food Servicing Services,Fish & Seafood,76.818
+2006,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",67.343
+2006,All Items,Food Excl Food Servicing Services,Oils & Fats,66.358
+2006,All Items,Food Excl Food Servicing Services,Fruits,71.912
+2006,All Items,Food Excl Food Servicing Services,Vegetables,74.379
+2006,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",86.752
+2006,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,82.045
+2006,All Items,Food Excl Food Servicing Services,Other Food,77.927
+2006,All Items,Food Servicing Services,Restaurant Food,80.094
+2006,All Items,Food Servicing Services,Fast Food,86.725
+2006,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),81.137
+2006,All Items,Food Servicing Services,Catered Food,87.706
+2006,All Items,Housing & Utilities,Accommodation,65.153
+2006,All Items,Housing & Utilities,Fuel & Utilities,84.818
+2006,All Items,Household Durables And Services,Household Durables,96.973
+2006,All Items,Household Durables And Services,Household Services & Supplies,76.312
+2006,All Items,Health Care,"Medical Products, Appliances & Equipment",82.459
+2006,All Items,Health Care,Medical & Dental Treatment,75.788
+2006,All Items,Transport,Private Road Transport,69.353
+2006,All Items,Transport,Public Road Transport,85.551
+2006,All Items,Transport,Other Travel & Transport,83.892
+2006,All Items,Recreation & Culture,Recreation & Entertainment,104.47
+2006,All Items,Recreation & Culture,"Newspapers, Books & Stationery",91.653
+2006,All Items,Recreation & Culture,Holiday Expenses,79.722
+2006,All Items,Education,Tuition & Other Fees,76.981
+2006,All Items,Education,School Textbooks & Related Study Guides,81.389
+2006,All Items,Miscellaneous Goods & Services,Personal Care,93.232
+2006,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,87.528
+2006,All Items,Miscellaneous Goods & Services,Personal Effects,96.786
+2006,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+2007,All Items,Food Excl Food Servicing Services,Bread & Cereals,76.424
+2007,All Items,Food Excl Food Servicing Services,Meat,78.334
+2007,All Items,Food Excl Food Servicing Services,Fish & Seafood,78.455
+2007,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",71.504
+2007,All Items,Food Excl Food Servicing Services,Oils & Fats,71.598
+2007,All Items,Food Excl Food Servicing Services,Fruits,75.265
+2007,All Items,Food Excl Food Servicing Services,Vegetables,79.128
+2007,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",90.704
+2007,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,86.725
+2007,All Items,Food Excl Food Servicing Services,Other Food,79.964
+2007,All Items,Food Servicing Services,Restaurant Food,82.926
+2007,All Items,Food Servicing Services,Fast Food,88.573
+2007,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),82.579
+2007,All Items,Food Servicing Services,Catered Food,89.663
+2007,All Items,Housing & Utilities,Accommodation,66.199
+2007,All Items,Housing & Utilities,Fuel & Utilities,83.317
+2007,All Items,Household Durables And Services,Household Durables,96.4
+2007,All Items,Household Durables And Services,Household Services & Supplies,77.127
+2007,All Items,Health Care,"Medical Products, Appliances & Equipment",86.029
+2007,All Items,Health Care,Medical & Dental Treatment,78.754
+2007,All Items,Transport,Private Road Transport,70.733
+2007,All Items,Transport,Public Road Transport,88.783
+2007,All Items,Transport,Other Travel & Transport,86.111
+2007,All Items,Recreation & Culture,Recreation & Entertainment,103.707
+2007,All Items,Recreation & Culture,"Newspapers, Books & Stationery",92.402
+2007,All Items,Recreation & Culture,Holiday Expenses,85.966
+2007,All Items,Education,Tuition & Other Fees,79.024
+2007,All Items,Education,School Textbooks & Related Study Guides,84.801
+2007,All Items,Miscellaneous Goods & Services,Personal Care,94.765
+2007,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,89.573
+2007,All Items,Miscellaneous Goods & Services,Personal Effects,98.857
+2007,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+2008,All Items,Food Excl Food Servicing Services,Bread & Cereals,88.536
+2008,All Items,Food Excl Food Servicing Services,Meat,86.893
+2008,All Items,Food Excl Food Servicing Services,Fish & Seafood,82.082
+2008,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",79.891
+2008,All Items,Food Excl Food Servicing Services,Oils & Fats,95.635
+2008,All Items,Food Excl Food Servicing Services,Fruits,79.97
+2008,All Items,Food Excl Food Servicing Services,Vegetables,83.921
+2008,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",95.395
+2008,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,92.716
+2008,All Items,Food Excl Food Servicing Services,Other Food,86.219
+2008,All Items,Food Servicing Services,Restaurant Food,87.629
+2008,All Items,Food Servicing Services,Fast Food,91.262
+2008,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),88.098
+2008,All Items,Food Servicing Services,Catered Food,94.377
+2008,All Items,Housing & Utilities,Accommodation,75.583
+2008,All Items,Housing & Utilities,Fuel & Utilities,98.181
+2008,All Items,Household Durables And Services,Household Durables,98.827
+2008,All Items,Household Durables And Services,Household Services & Supplies,78.834
+2008,All Items,Health Care,"Medical Products, Appliances & Equipment",90.872
+2008,All Items,Health Care,Medical & Dental Treatment,82.973
+2008,All Items,Transport,Private Road Transport,73.101
+2008,All Items,Transport,Public Road Transport,93.774
+2008,All Items,Transport,Other Travel & Transport,95.881
+2008,All Items,Recreation & Culture,Recreation & Entertainment,104.588
+2008,All Items,Recreation & Culture,"Newspapers, Books & Stationery",94.927
+2008,All Items,Recreation & Culture,Holiday Expenses,91.901
+2008,All Items,Education,Tuition & Other Fees,82.75
+2008,All Items,Education,School Textbooks & Related Study Guides,87.988
+2008,All Items,Miscellaneous Goods & Services,Personal Care,96.785
+2008,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,91.446
+2008,All Items,Miscellaneous Goods & Services,Personal Effects,99.893
+2008,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+2009,All Items,Food Excl Food Servicing Services,Bread & Cereals,91.652
+2009,All Items,Food Excl Food Servicing Services,Meat,91.315
+2009,All Items,Food Excl Food Servicing Services,Fish & Seafood,83.368
+2009,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",81.454
+2009,All Items,Food Excl Food Servicing Services,Oils & Fats,95.123
+2009,All Items,Food Excl Food Servicing Services,Fruits,82.116
+2009,All Items,Food Excl Food Servicing Services,Vegetables,84.778
+2009,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",95.619
+2009,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,93.159
+2009,All Items,Food Excl Food Servicing Services,Other Food,90.115
+2009,All Items,Food Servicing Services,Restaurant Food,88.576
+2009,All Items,Food Servicing Services,Fast Food,93.488
+2009,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),90.313
+2009,All Items,Food Servicing Services,Catered Food,95.77
+2009,All Items,Housing & Utilities,Accommodation,79.651
+2009,All Items,Housing & Utilities,Fuel & Utilities,84.788
+2009,All Items,Household Durables And Services,Household Durables,98.671
+2009,All Items,Household Durables And Services,Household Services & Supplies,80.154
+2009,All Items,Health Care,"Medical Products, Appliances & Equipment",91.046
+2009,All Items,Health Care,Medical & Dental Treatment,84.873
+2009,All Items,Transport,Private Road Transport,70.562
+2009,All Items,Transport,Public Road Transport,92.569
+2009,All Items,Transport,Other Travel & Transport,85.788
+2009,All Items,Recreation & Culture,Recreation & Entertainment,103.741
+2009,All Items,Recreation & Culture,"Newspapers, Books & Stationery",98.511
+2009,All Items,Recreation & Culture,Holiday Expenses,89.349
+2009,All Items,Education,Tuition & Other Fees,83.333
+2009,All Items,Education,School Textbooks & Related Study Guides,89.781
+2009,All Items,Miscellaneous Goods & Services,Personal Care,97.164
+2009,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,91.969
+2009,All Items,Miscellaneous Goods & Services,Personal Effects,99.318
+2009,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+2010,All Items,Food Excl Food Servicing Services,Bread & Cereals,93.451
+2010,All Items,Food Excl Food Servicing Services,Meat,92.913
+2010,All Items,Food Excl Food Servicing Services,Fish & Seafood,85.429
+2010,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",83.507
+2010,All Items,Food Excl Food Servicing Services,Oils & Fats,93.207
+2010,All Items,Food Excl Food Servicing Services,Fruits,83.658
+2010,All Items,Food Excl Food Servicing Services,Vegetables,89.472
+2010,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",98.724
+2010,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,93.478
+2010,All Items,Food Excl Food Servicing Services,Other Food,91.452
+2010,All Items,Food Servicing Services,Restaurant Food,89.573
+2010,All Items,Food Servicing Services,Fast Food,93.972
+2010,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),90.886
+2010,All Items,Food Servicing Services,Catered Food,95.789
+2010,All Items,Housing & Utilities,Accommodation,80.377
+2010,All Items,Housing & Utilities,Fuel & Utilities,93.003
+2010,All Items,Household Durables And Services,Household Durables,98.669
+2010,All Items,Household Durables And Services,Household Services & Supplies,81.351
+2010,All Items,Health Care,"Medical Products, Appliances & Equipment",92.219
+2010,All Items,Health Care,Medical & Dental Treatment,86.532
+2010,All Items,Transport,Private Road Transport,80.216
+2010,All Items,Transport,Public Road Transport,92.285
+2010,All Items,Transport,Other Travel & Transport,88.584
+2010,All Items,Recreation & Culture,Recreation & Entertainment,102.459
+2010,All Items,Recreation & Culture,"Newspapers, Books & Stationery",99.045
+2010,All Items,Recreation & Culture,Holiday Expenses,92.511
+2010,All Items,Education,Tuition & Other Fees,86.208
+2010,All Items,Education,School Textbooks & Related Study Guides,91.705
+2010,All Items,Miscellaneous Goods & Services,Personal Care,97.752
+2010,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,92.392
+2010,All Items,Miscellaneous Goods & Services,Personal Effects,100.446
+2010,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+2011,All Items,Food Excl Food Servicing Services,Bread & Cereals,95.207
+2011,All Items,Food Excl Food Servicing Services,Meat,95.566
+2011,All Items,Food Excl Food Servicing Services,Fish & Seafood,90.555
+2011,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",87.426
+2011,All Items,Food Excl Food Servicing Services,Oils & Fats,97.267
+2011,All Items,Food Excl Food Servicing Services,Fruits,86.743
+2011,All Items,Food Excl Food Servicing Services,Vegetables,92.851
+2011,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",100.837
+2011,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,95.934
+2011,All Items,Food Excl Food Servicing Services,Other Food,93.973
+2011,All Items,Food Servicing Services,Restaurant Food,92.108
+2011,All Items,Food Servicing Services,Fast Food,95.753
+2011,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),93.406
+2011,All Items,Food Servicing Services,Catered Food,97.048
+2011,All Items,Housing & Utilities,Accommodation,87.923
+2011,All Items,Housing & Utilities,Fuel & Utilities,99.507
+2011,All Items,Household Durables And Services,Household Durables,98.811
+2011,All Items,Household Durables And Services,Household Services & Supplies,88.821
+2011,All Items,Health Care,"Medical Products, Appliances & Equipment",94.626
+2011,All Items,Health Care,Medical & Dental Treatment,88.525
+2011,All Items,Transport,Private Road Transport,92.227
+2011,All Items,Transport,Public Road Transport,93.181
+2011,All Items,Transport,Other Travel & Transport,92.791
+2011,All Items,Recreation & Culture,Recreation & Entertainment,95.289
+2011,All Items,Recreation & Culture,"Newspapers, Books & Stationery",99.287
+2011,All Items,Recreation & Culture,Holiday Expenses,96.402
+2011,All Items,Education,Tuition & Other Fees,89.247
+2011,All Items,Education,School Textbooks & Related Study Guides,96.469
+2011,All Items,Miscellaneous Goods & Services,Personal Care,98.775
+2011,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,93.309
+2011,All Items,Miscellaneous Goods & Services,Personal Effects,100.175
+2011,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+2012,All Items,Food Excl Food Servicing Services,Bread & Cereals,96.987
+2012,All Items,Food Excl Food Servicing Services,Meat,97.36
+2012,All Items,Food Excl Food Servicing Services,Fish & Seafood,94.179
+2012,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",91.211
+2012,All Items,Food Excl Food Servicing Services,Oils & Fats,100.185
+2012,All Items,Food Excl Food Servicing Services,Fruits,88.866
+2012,All Items,Food Excl Food Servicing Services,Vegetables,93.997
+2012,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",100.827
+2012,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,97.855
+2012,All Items,Food Excl Food Servicing Services,Other Food,96.329
+2012,All Items,Food Servicing Services,Restaurant Food,95.333
+2012,All Items,Food Servicing Services,Fast Food,95.714
+2012,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),95.221
+2012,All Items,Food Servicing Services,Catered Food,97.842
+2012,All Items,Housing & Utilities,Accommodation,95.762
+2012,All Items,Housing & Utilities,Fuel & Utilities,105.243
+2012,All Items,Household Durables And Services,Household Durables,98.871
+2012,All Items,Household Durables And Services,Household Services & Supplies,91.785
+2012,All Items,Health Care,"Medical Products, Appliances & Equipment",97.033
+2012,All Items,Health Care,Medical & Dental Treatment,92.845
+2012,All Items,Transport,Private Road Transport,99.312
+2012,All Items,Transport,Public Road Transport,97.659
+2012,All Items,Transport,Other Travel & Transport,95.734
+2012,All Items,Recreation & Culture,Recreation & Entertainment,96.325
+2012,All Items,Recreation & Culture,"Newspapers, Books & Stationery",99.569
+2012,All Items,Recreation & Culture,Holiday Expenses,97.475
+2012,All Items,Education,Tuition & Other Fees,92.966
+2012,All Items,Education,School Textbooks & Related Study Guides,97.599
+2012,All Items,Miscellaneous Goods & Services,Personal Care,99.118
+2012,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,93.919
+2012,All Items,Miscellaneous Goods & Services,Personal Effects,99.93
+2012,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+2013,All Items,Food Excl Food Servicing Services,Bread & Cereals,98.449
+2013,All Items,Food Excl Food Servicing Services,Meat,98.318
+2013,All Items,Food Excl Food Servicing Services,Fish & Seafood,97.163
+2013,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",95.148
+2013,All Items,Food Excl Food Servicing Services,Oils & Fats,99.409
+2013,All Items,Food Excl Food Servicing Services,Fruits,92.777
+2013,All Items,Food Excl Food Servicing Services,Vegetables,96.619
+2013,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",100.548
+2013,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,98.973
+2013,All Items,Food Excl Food Servicing Services,Other Food,97.687
+2013,All Items,Food Servicing Services,Restaurant Food,97.654
+2013,All Items,Food Servicing Services,Fast Food,96.626
+2013,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),97.018
+2013,All Items,Food Servicing Services,Catered Food,98.721
+2013,All Items,Housing & Utilities,Accommodation,99.652
+2013,All Items,Housing & Utilities,Fuel & Utilities,101.281
+2013,All Items,Household Durables And Services,Household Durables,99.209
+2013,All Items,Household Durables And Services,Household Services & Supplies,97.894
+2013,All Items,Health Care,"Medical Products, Appliances & Equipment",99.149
+2013,All Items,Health Care,Medical & Dental Treatment,96.788
+2013,All Items,Transport,Private Road Transport,102.024
+2013,All Items,Transport,Public Road Transport,98.016
+2013,All Items,Transport,Other Travel & Transport,98.795
+2013,All Items,Recreation & Culture,Recreation & Entertainment,98.226
+2013,All Items,Recreation & Culture,"Newspapers, Books & Stationery",99.746
+2013,All Items,Recreation & Culture,Holiday Expenses,97.975
+2013,All Items,Education,Tuition & Other Fees,96.647
+2013,All Items,Education,School Textbooks & Related Study Guides,98.132
+2013,All Items,Miscellaneous Goods & Services,Personal Care,100.23
+2013,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,94.378
+2013,All Items,Miscellaneous Goods & Services,Personal Effects,99.718
+2013,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,na
+2014,All Items,Food Excl Food Servicing Services,Bread & Cereals,99.992
+2014,All Items,Food Excl Food Servicing Services,Meat,99.993
+2014,All Items,Food Excl Food Servicing Services,Fish & Seafood,99.919
+2014,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",99.998
+2014,All Items,Food Excl Food Servicing Services,Oils & Fats,100
+2014,All Items,Food Excl Food Servicing Services,Fruits,99.868
+2014,All Items,Food Excl Food Servicing Services,Vegetables,99.912
+2014,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",99.997
+2014,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,99.996
+2014,All Items,Food Excl Food Servicing Services,Other Food,99.988
+2014,All Items,Food Servicing Services,Restaurant Food,99.972
+2014,All Items,Food Servicing Services,Fast Food,100
+2014,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),99.988
+2014,All Items,Food Servicing Services,Catered Food,99.989
+2014,All Items,Housing & Utilities,Accommodation,100
+2014,All Items,Housing & Utilities,Fuel & Utilities,99.997
+2014,All Items,Household Durables And Services,Household Durables,99.911
+2014,All Items,Household Durables And Services,Household Services & Supplies,99.993
+2014,All Items,Health Care,"Medical Products, Appliances & Equipment",99.952
+2014,All Items,Health Care,Medical & Dental Treatment,99.987
+2014,All Items,Transport,Private Road Transport,99.999
+2014,All Items,Transport,Public Road Transport,100.012
+2014,All Items,Transport,Other Travel & Transport,99.92
+2014,All Items,Recreation & Culture,Recreation & Entertainment,99.979
+2014,All Items,Recreation & Culture,"Newspapers, Books & Stationery",99.995
+2014,All Items,Recreation & Culture,Holiday Expenses,99.965
+2014,All Items,Education,Tuition & Other Fees,100
+2014,All Items,Education,School Textbooks & Related Study Guides,100
+2014,All Items,Miscellaneous Goods & Services,Personal Care,99.89
+2014,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,99.984
+2014,All Items,Miscellaneous Goods & Services,Personal Effects,99.851
+2014,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,99.976
+2015,All Items,Food Excl Food Servicing Services,Bread & Cereals,101.279
+2015,All Items,Food Excl Food Servicing Services,Meat,100.65
+2015,All Items,Food Excl Food Servicing Services,Fish & Seafood,101.384
+2015,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",101.958
+2015,All Items,Food Excl Food Servicing Services,Oils & Fats,99.499
+2015,All Items,Food Excl Food Servicing Services,Fruits,101.673
+2015,All Items,Food Excl Food Servicing Services,Vegetables,100.854
+2015,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",100.903
+2015,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,100.31
+2015,All Items,Food Excl Food Servicing Services,Other Food,101.834
+2015,All Items,Food Servicing Services,Restaurant Food,103.167
+2015,All Items,Food Servicing Services,Fast Food,101.67
+2015,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),101.883
+2015,All Items,Food Servicing Services,Catered Food,100.205
+2015,All Items,Housing & Utilities,Accommodation,97.387
+2015,All Items,Housing & Utilities,Fuel & Utilities,90.183
+2015,All Items,Household Durables And Services,Household Durables,100.45
+2015,All Items,Household Durables And Services,Household Services & Supplies,98.691
+2015,All Items,Health Care,"Medical Products, Appliances & Equipment",100.788
+2015,All Items,Health Care,Medical & Dental Treatment,99.631
+2015,All Items,Transport,Private Road Transport,97.821
+2015,All Items,Transport,Public Road Transport,102.065
+2015,All Items,Transport,Other Travel & Transport,96.824
+2015,All Items,Recreation & Culture,Recreation & Entertainment,100.244
+2015,All Items,Recreation & Culture,"Newspapers, Books & Stationery",101.468
+2015,All Items,Recreation & Culture,Holiday Expenses,100.203
+2015,All Items,Education,Tuition & Other Fees,103.482
+2015,All Items,Education,School Textbooks & Related Study Guides,100.593
+2015,All Items,Miscellaneous Goods & Services,Personal Care,99.498
+2015,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,100.999
+2015,All Items,Miscellaneous Goods & Services,Personal Effects,98.619
+2015,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,100.717
+2016,All Items,Food Excl Food Servicing Services,Bread & Cereals,102.556
+2016,All Items,Food Excl Food Servicing Services,Meat,102.76
+2016,All Items,Food Excl Food Servicing Services,Fish & Seafood,105.813
+2016,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",103.642
+2016,All Items,Food Excl Food Servicing Services,Oils & Fats,98.025
+2016,All Items,Food Excl Food Servicing Services,Fruits,104.141
+2016,All Items,Food Excl Food Servicing Services,Vegetables,104.859
+2016,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",102.62
+2016,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,100.483
+2016,All Items,Food Excl Food Servicing Services,Other Food,103.962
+2016,All Items,Food Servicing Services,Restaurant Food,105.534
+2016,All Items,Food Servicing Services,Fast Food,103.938
+2016,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),103.592
+2016,All Items,Food Servicing Services,Catered Food,100.925
+2016,All Items,Housing & Utilities,Accommodation,93.971
+2016,All Items,Housing & Utilities,Fuel & Utilities,82.752
+2016,All Items,Household Durables And Services,Household Durables,100.747
+2016,All Items,Household Durables And Services,Household Services & Supplies,101.395
+2016,All Items,Health Care,"Medical Products, Appliances & Equipment",100.731
+2016,All Items,Health Care,Medical & Dental Treatment,101.038
+2016,All Items,Transport,Private Road Transport,94.839
+2016,All Items,Transport,Public Road Transport,101.965
+2016,All Items,Transport,Other Travel & Transport,94.595
+2016,All Items,Recreation & Culture,Recreation & Entertainment,100.365
+2016,All Items,Recreation & Culture,"Newspapers, Books & Stationery",106.623
+2016,All Items,Recreation & Culture,Holiday Expenses,101.412
+2016,All Items,Education,Tuition & Other Fees,106.7
+2016,All Items,Education,School Textbooks & Related Study Guides,101.377
+2016,All Items,Miscellaneous Goods & Services,Personal Care,99.544
+2016,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,101.193
+2016,All Items,Miscellaneous Goods & Services,Personal Effects,99.994
+2016,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,100.728
+2017,All Items,Food Excl Food Servicing Services,Bread & Cereals,103.185
+2017,All Items,Food Excl Food Servicing Services,Meat,103.339
+2017,All Items,Food Excl Food Servicing Services,Fish & Seafood,108.473
+2017,All Items,Food Excl Food Servicing Services,"Milk, Cheese & Eggs",104.243
+2017,All Items,Food Excl Food Servicing Services,Oils & Fats,98.181
+2017,All Items,Food Excl Food Servicing Services,Fruits,106.934
+2017,All Items,Food Excl Food Servicing Services,Vegetables,106.422
+2017,All Items,Food Excl Food Servicing Services,"Sugar, Preserves & Confectionery",104.627
+2017,All Items,Food Excl Food Servicing Services,Non-alcoholic Beverages,100.956
+2017,All Items,Food Excl Food Servicing Services,Other Food,105.152
+2017,All Items,Food Servicing Services,Restaurant Food,106.744
+2017,All Items,Food Servicing Services,Fast Food,105.099
+2017,All Items,Food Servicing Services,Hawker Food (Incl. Food Courts),105.35
+2017,All Items,Food Servicing Services,Catered Food,102.662
+2017,All Items,Housing & Utilities,Accommodation,90.215
+2017,All Items,Housing & Utilities,Fuel & Utilities,89.957
+2017,All Items,Household Durables And Services,Household Durables,99.672
+2017,All Items,Household Durables And Services,Household Services & Supplies,103.761
+2017,All Items,Health Care,"Medical Products, Appliances & Equipment",100.621
+2017,All Items,Health Care,Medical & Dental Treatment,104.33
+2017,All Items,Transport,Private Road Transport,98.863
+2017,All Items,Transport,Public Road Transport,99.745
+2017,All Items,Transport,Other Travel & Transport,94.594
+2017,All Items,Recreation & Culture,Recreation & Entertainment,100.536
+2017,All Items,Recreation & Culture,"Newspapers, Books & Stationery",107.756
+2017,All Items,Recreation & Culture,Holiday Expenses,101.805
+2017,All Items,Education,Tuition & Other Fees,109.956
+2017,All Items,Education,School Textbooks & Related Study Guides,101.872
+2017,All Items,Miscellaneous Goods & Services,Personal Care,98.57
+2017,All Items,Miscellaneous Goods & Services,Alcoholic Drinks & Tobacco,101.485
+2017,All Items,Miscellaneous Goods & Services,Personal Effects,102.36
+2017,All Items,Miscellaneous Goods & Services,Other Miscellaneous Expenditure,102.521
